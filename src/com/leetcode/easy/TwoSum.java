@@ -20,7 +20,7 @@ import java.util.Map;
  * */
 
 
-public class No1_TwoSum {
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int[] res = new int[2];
         Map<Integer, Integer> map = new HashMap<>();
