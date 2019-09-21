@@ -37,6 +37,7 @@ public class MaxProfit {
         int res = 0;
         for (int i = 1; i < prices.length; i++) {
             if (prices[i] > prices[i - 1]) {
+                //累加利润 当天卖出后也可以在买进来
                 res += prices[i] - prices[i - 1];
             }
         }
