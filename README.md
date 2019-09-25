@@ -7,6 +7,7 @@
 |   3.无重复字符的最长子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLongestSubstring.java) |
 |   62.不同路径  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePaths.java)|
 |   63.不同路径II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePathsWithObstacles.java)|
+|   64.最小路径和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinPathSum.java)|
 |   72.编辑距离  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinDistance.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinDistance)|
 |   94.二叉树的中序遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InorderTraversal.java)  [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InOrderTraversal) |
 |   100.相同的树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSameTree.java) |
