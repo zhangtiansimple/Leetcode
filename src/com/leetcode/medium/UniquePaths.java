@@ -25,7 +25,7 @@ package com.leetcode.medium;
  *
  * 输入: m = 7, n = 3
  * 输出: 28
- * 
+ *
  * */
 
 public class UniquePaths {
