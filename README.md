@@ -19,6 +19,7 @@
 |   103.二叉树的锯齿形遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ZigzagLevelOrder.java) |
 |   107.二叉树的层次遍历II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LevelOrderBottom.java) |
 |   110.平衡二叉树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsBalanced.java) |
+|   112.路径总和  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasPathSum.java) |
 |   122.买卖股票的最佳时机II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxProfit.java) |
 |   179.最大数  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LargestNumber.java) |
 |   300.最长上升子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLIS.java) |
