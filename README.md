@@ -33,4 +33,5 @@
 |   5079. 三个有序数组的交集 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ArraysIntersection.java) |
 |   5080. 查找两棵二叉搜索树之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TwoSumBSTs.java) |
 |   5207. 尽可能使字符串相等 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/EqualSubstring.java) |
+|   5213. 玩筹码 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinCostToMoveChips.java) |
 |   5214. 最长定差子序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestSubsequence.java) |
