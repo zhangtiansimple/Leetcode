@@ -35,3 +35,4 @@
 |   5207. 尽可能使字符串相等 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/EqualSubstring.java) |
 |   5213. 玩筹码 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinCostToMoveChips.java) |
 |   5214. 最长定差子序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestSubsequence.java) |
+|   5215. 黄金矿工 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GetMaximumGold.java) |
