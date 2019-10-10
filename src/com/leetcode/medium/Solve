@@ -1,0 +1,31 @@
+def solve(self, board: List[List[str]]) -> None:
+        """
+        Do not return anything, modify board in-place instead.
+        """
+        if board == [] : return board
+        if len(board) == 1 : return board
+
+        m = len(board)
+        n = len(board[0])
+
+        def dfs(board: List[List[str]], i: int, j: int):
+            if i < 0 or j < 0 or i > m - 1 or j > n -1 or board[i][j] == '@' or board[i][j] == 'X':return
+
+            board[i][j] = "@" #替换为@ 表示已经搜索过了
+            dfs(board, i - 1, j)
+            dfs(board, i + 1, j)
+            dfs(board, i, j - 1)
+            dfs(board, i, j + 1)
+
+        for i in range(0, m) :
+            for j in range(0, n):
+                #如果是处于边界的O 开始搜索
+                flag = i == 0 or j == 0 or i == m - 1 or j == n - 1
+                #如果dfs可以到的O 则会被替换为@ 说明是于边界联通的
+                if flag and board[i][j] == 'O' : dfs(board, i, j)
+
+        #dfs结束后 只需要将@替换为O（与边界联通） 将O替换为X（不与边界联通）
+        for i in range(0, m) :
+            for j in range(0, n):
+                if board[i][j] == 'O':board[i][j] = 'X'
+                if board[i][j] == '@':board[i][j] = 'O'
