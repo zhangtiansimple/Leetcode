@@ -6,14 +6,18 @@
 
 ## 信心题
 [LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+[1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
 
 ## 动态规划
 #### --寻路问题
 [62.不同路径 ](https://leetcode-cn.com/problems/unique-paths/)
 [63.不用路径II](https://leetcode-cn.com/problems/unique-paths-ii/)
 [64.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
-#### --编辑距离
+#### --基础
 [72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
+[1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
+#### --最长上升子序列
+[300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 ## 树
 #### --遍历
@@ -24,11 +28,20 @@
 #### --树的结构（具有天然的递归性质）
 [100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+#### --深度优先搜索
+[108.将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+[110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+[112.路径总和](https://leetcode-cn.com/problems/path-sum/)
+[124.二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 
 ## DFS
 [130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 [417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
 [695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/comments/)
+
+## 贪心
+[122.买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+[763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
 
 ## 滑动窗口
 [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
@@ -43,11 +56,24 @@
 ## 链表
 #### --基础
 [2.两数之和 ](https://leetcode-cn.com/problems/add-two-numbers/)
+[1171.从链表中删去总和值为零的连续结点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
 #### --快慢指针
+[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
+## 排序
+[179.最大数](https://leetcode-cn.com/problems/largest-number/)
 
 ## 剪枝
 [15.三数之和](https://leetcode-cn.com/problems/3sum/)
+
+## 堆
+[1046.最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+
+## 栈
+[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+
+## 数学
+[1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 
 
 |      题目      |      难度     |     语言    |
