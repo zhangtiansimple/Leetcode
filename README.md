@@ -5,7 +5,7 @@
 ### 每一道题目都可能有多种不同的解法，同时每一道题目也可能是多个知识点的综合,下面的归纳选取的是在一定程度上能体现其解法的题目
 
 ## 信心题
-[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+&#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
 [1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
 
 ## 动态规划
