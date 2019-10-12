@@ -1,5 +1,26 @@
 # LeetCode解题
 
+##Leetcode解题记录及依笔者浅见每种问题具有代表性题目的归纳,由于Leetcode早已从150题步入到了现在的千题时代，笔者尽可能的在这里做一个优选，希望此项目可以帮助小伙伴们更快的掌握对应的知识点～
+
+###信心题
+[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+
+
+###DFS
+[130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
+[417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
+[695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/comments/)
+
+###回溯
+[1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
+
+###哈希表
+[1.两数之和](https://leetcode-cn.com/problems/two-sum/)
+
+###链表
+[2.两数之和 ](https://leetcode-cn.com/problems/add-two-numbers/)
+
+
 |      题目      |      难度     |     语言    |
 | ------------- |:-------------:|:-------------:|
 |   LCP 1.猜数字  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Game.java) |
