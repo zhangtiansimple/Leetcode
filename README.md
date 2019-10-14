@@ -18,7 +18,7 @@
 #### &#160; &#160;--基础
 &#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
-#### --最长上升子序列
+#### &#160; &#160;--最长上升子序列
 &#160; &#160; &#160; &#160;[300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 ## 树
