@@ -19,8 +19,9 @@
 #### &#160; &#160;--基础
 &#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
-#### &#160; &#160;--最长上升子序列
-&#160; &#160; &#160; &#160;[300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+#### &#160; &#160;--最长上升子序列问题
+&#160; &#160; &#160; &#160;[139.单词拆分](https://leetcode-cn.com/problems/word-break/)
+[300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 ## 树
 #### &#160; &#160;--遍历
@@ -107,6 +108,7 @@
 |   122.买卖股票的最佳时机II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxProfit.java) |
 |   124.二叉树中的最大路径和  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MaxPathSum.java) |
 |   130.被围绕的区域  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve)|
+|   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
 |   179.最大数  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LargestNumber.java) |
 |   200.岛屿数量  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumIslands.java) |
