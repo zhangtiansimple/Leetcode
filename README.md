@@ -16,12 +16,14 @@
 [120.三角形最小路径和](https://leetcode-cn.com/problems/triangle/comments/)
 #### &#160; &#160;--背包问题
 &#160; &#160; &#160; &#160;[322.零钱兑换](https://leetcode-cn.com/problems/coin-change/) [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
-#### &#160; &#160;--基础
-&#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
-[1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 #### &#160; &#160;--最长上升子序列问题
 &#160; &#160; &#160; &#160;[139.单词拆分](https://leetcode-cn.com/problems/word-break/)
 [300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+#### &#160; &#160;--最长公共子序列问题
+[1143.最长公共子序列](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java)
+#### &#160; &#160;--其他
+&#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
+[1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 
 ## 树
 #### &#160; &#160;--遍历
@@ -120,6 +122,7 @@
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
 |   1046.最后一块石头的重量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LastStoneWeight.java) |
+|   1143.最长公共子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java) |
 |   1171.从链表中删去总和值为零的连续结点  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveZeroSumSublists.java) |
 |   1189.气球的最大数量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxNumberOfBalloons.java) |
 |   1190.反转每对括号间的子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses)|
