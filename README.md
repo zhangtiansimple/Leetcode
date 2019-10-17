@@ -20,7 +20,7 @@
 &#160; &#160; &#160; &#160;[139.单词拆分](https://leetcode-cn.com/problems/word-break/)
 [300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 #### &#160; &#160;--最长公共子序列问题
-[1143.最长公共子序列](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java)
+&#160; &#160; &#160; &#160;[1143.最长公共子序列](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java)
 #### &#160; &#160;--其他
 &#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
