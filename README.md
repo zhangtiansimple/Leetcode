@@ -24,6 +24,7 @@
 &#160; &#160; &#160; &#160;[1143.最长公共子序列](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java)
 #### &#160; &#160;--其他
 &#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
+[413.等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 
 ## 树
@@ -117,6 +118,7 @@
 |   200.岛屿数量  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumIslands.java) |
 |   300.最长上升子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLIS.java) |
 |   322.零钱兑换  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CoinChange.java) |
+|   413.等差数列划分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfArithmeticSlices.java) |
 |   416.分割等和子集  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanPartition416.java) |
 |   417.太平洋大西洋水流问题  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PacificAtlantic.java) |
 |   473.火柴拼正方形  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MakeSquare.java) |
