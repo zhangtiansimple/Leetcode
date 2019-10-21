@@ -57,6 +57,7 @@
 
 ## 滑动窗口
 &#160; &#160;&#160; &#160;[3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+[5232. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 
 ## 回溯
 &#160; &#160;&#160; &#160;[1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
@@ -143,3 +144,4 @@
 |   5079. 三个有序数组的交集 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ArraysIntersection.java) |
 |   5080. 查找两棵二叉搜索树之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TwoSumBSTs.java) |
 |   5207. 尽可能使字符串相等 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/EqualSubstring.java) |
+|   5232. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
