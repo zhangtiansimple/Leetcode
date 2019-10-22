@@ -70,6 +70,7 @@
 ## 链表
 #### &#160; &#160;--基础
 &#160; &#160;&#160; &#160;[2.两数之和 ](https://leetcode-cn.com/problems/add-two-numbers/)
+[160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 [1171.从链表中删去总和值为零的连续结点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
 #### &#160; &#160;--快慢指针
 &#160; &#160;&#160; &#160;[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
@@ -121,6 +122,7 @@
 |   130.被围绕的区域  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve)|
 |   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
+|   160.相交链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/GetIntersectionNode.java) |
 |   179.最大数  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LargestNumber.java) |
 |   200.岛屿数量  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumIslands.java) |
 |   206.反转链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReverseList.java) |
