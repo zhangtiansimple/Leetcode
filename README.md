@@ -26,7 +26,7 @@
 #### &#160; &#160;--其他
 &#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
 [221.最大正方形](https://leetcode-cn.com/problems/maximal-square/)
-[309.最佳买卖股票时机含冷冻期]（https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/）
+[309.最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 [413.等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 
