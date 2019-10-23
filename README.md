@@ -148,6 +148,7 @@
 |   1171.从链表中删去总和值为零的连续结点  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveZeroSumSublists.java) |
 |   1189.气球的最大数量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxNumberOfBalloons.java) |
 |   1190.反转每对括号间的子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses)|
+|   1208. 尽可能使字符串相等 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/EqualSubstring.java) |
 |   1213. 三个有序数组的交集 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ArraysIntersection.java) |
 |   1214. 查找两棵二叉搜索树之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TwoSumBSTs.java) |
 |   1217. 玩筹码 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinCostToMoveChips.java) |
@@ -155,4 +156,3 @@
 |   1219. 黄金矿工 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GetMaximumGold.java) |
 |   1221.分割平衡字符串 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/BalancedStringSplit.java) |
 |   1234. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
-|   5207. 尽可能使字符串相等 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/EqualSubstring.java) |
