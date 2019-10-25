@@ -95,6 +95,9 @@
 
 ## 栈
 &#160; &#160;&#160; &#160;[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+ 
+## 多线程
+&#160; &#160;&#160; &#160;[1226.哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)
 
 ## 数学
 &#160; &#160;&#160; &#160;[1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
@@ -161,4 +164,5 @@
 |   1218. 最长定差子序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestSubsequence.java) |
 |   1219. 黄金矿工 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GetMaximumGold.java) |
 |   1221.分割平衡字符串 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/BalancedStringSplit.java) |
+|   1226.哲学家进餐 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiningPhilosophers.java) |
 |   1234. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
