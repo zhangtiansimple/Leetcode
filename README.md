@@ -89,6 +89,7 @@
 
 ## 剪枝
 &#160; &#160;&#160; &#160;[15.三数之和](https://leetcode-cn.com/problems/3sum/)
+[18.四数之和](https://leetcode-cn.com/problems/4sum/)
 
 ## 堆
 &#160; &#160;&#160; &#160;[1046.最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
@@ -111,6 +112,7 @@
 |   2.两数之和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/AddTwoNumbers.java) |
 |   3.无重复字符的最长子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLongestSubstring.java) |
 |   15.三数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ThreeSum.java) |
+|   18.四数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FourSum.java) |
 |   30.串联所有单词的子串  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/FindSubstring.java) |
 |   62.不同路径  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePaths.java)|
 |   63.不同路径II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePathsWithObstacles.java)|
