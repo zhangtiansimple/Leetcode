@@ -101,7 +101,7 @@
 &#160; &#160;&#160; &#160;[1226.哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)
 
 ## 数学
-&#160; &#160;&#160; &#160;[1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+&#160; &#160;&#160; &#160;[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)[1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 
 
 |      题目      |      难度     |     语言    |
@@ -146,6 +146,7 @@
 |   309.最佳买卖股票时机含冷冻期  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProfit.java) |
 |   322.零钱兑换  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CoinChange.java) |
 |   337.打家劫舍III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RobIII.java) |
+|   391.完美矩形  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/IsRectangleCover.java) |
 |   413.等差数列划分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfArithmeticSlices.java) |
 |   416.分割等和子集  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanPartition416.java) |
 |   417.太平洋大西洋水流问题  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PacificAtlantic.java) |
