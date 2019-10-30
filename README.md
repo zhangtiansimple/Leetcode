@@ -78,7 +78,9 @@
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 
 ## 回溯
+&#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度
 &#160; &#160;&#160; &#160;[78.子集](https://leetcode-cn.com/problems/subsets/)
+[90.子集II](https://leetcode-cn.com/problems/subsets-ii/)
 [691.贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
 
@@ -122,6 +124,7 @@
 |   64.最小路径和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinPathSum.java)|
 |   72.编辑距离  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinDistance.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinDistance)|
 |   78.子集 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Subsets.java)|
+|   90.子集II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubsetsWithDup.java)|
 |   94.二叉树的中序遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InorderTraversal.java)  [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InOrderTraversal) |
 |   100.相同的树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSameTree.java) |
 |   101.对称二叉树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSymmetric.java) |
