@@ -79,7 +79,8 @@
 
 ## 回溯
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度
-&#160; &#160;&#160; &#160;[78.子集](https://leetcode-cn.com/problems/subsets/)
+&#160; &#160;&#160; &#160;[39.组合总和](https://leetcode-cn.com/problems/combination-sum/)
+[78.子集](https://leetcode-cn.com/problems/subsets/)
 [90.子集II](https://leetcode-cn.com/problems/subsets-ii/)
 [691.贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
@@ -119,6 +120,7 @@
 |   15.三数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ThreeSum.java) |
 |   18.四数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FourSum.java) |
 |   30.串联所有单词的子串  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/FindSubstring.java) |
+|   39.组合总和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum.java) |
 |   62.不同路径  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePaths.java)|
 |   63.不同路径II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePathsWithObstacles.java)|
 |   64.最小路径和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinPathSum.java)|
