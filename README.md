@@ -109,6 +109,9 @@
 ## 多线程
 &#160; &#160;&#160; &#160;[1226.哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)
 
+## 分治
+&#160; &#160;&#160; &#160;[241.为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)
+
 ## 数学
 &#160; &#160;&#160; &#160;[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
@@ -158,6 +161,7 @@
 |   216.组合总和III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum3.java) |
 |   221.最大正方形  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaximalSquare.java) |
 |   234.回文链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsPalindrome.java) |
+|   241.为运算表达式设计优先级  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiffWaysToCompute.java) |
 |   300.最长上升子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLIS.java) |
 |   309.最佳买卖股票时机含冷冻期  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProfit.java) |
 |   322.零钱兑换  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CoinChange.java) |
