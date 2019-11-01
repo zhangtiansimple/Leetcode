@@ -81,7 +81,7 @@
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度  
   
 &#160; &#160;&#160; &#160;[39.组合总和](https://leetcode-cn.com/problems/combination-sum/)
-[40.组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/submissions/)
+[40.组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)
 [78.子集](https://leetcode-cn.com/problems/subsets/)
 [90.子集II](https://leetcode-cn.com/problems/subsets-ii/)
 [691.贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)
