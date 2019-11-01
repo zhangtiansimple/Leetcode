@@ -111,6 +111,7 @@
 
 ## 分治
 &#160; &#160;&#160; &#160;[241.为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)
+[95.不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 
 ## 数学
 &#160; &#160;&#160; &#160;[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
@@ -137,6 +138,7 @@
 |   78.子集 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Subsets.java)|
 |   90.子集II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubsetsWithDup.java)|
 |   94.二叉树的中序遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InorderTraversal.java)  [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InOrderTraversal) |
+|   95.不同的二叉搜索树II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GenerateTrees.java) |
 |   100.相同的树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSameTree.java) |
 |   101.对称二叉树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSymmetric.java) |
 |   102.二叉树的层次遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrder.java) |
