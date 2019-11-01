@@ -110,8 +110,9 @@
 &#160; &#160;&#160; &#160;[1226.哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)
 
 ## 分治
-&#160; &#160;&#160; &#160;[241.为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)
+&#160; &#160;&#160; &#160;
 [95.不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+[241.为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)
 
 ## 数学
 &#160; &#160;&#160; &#160;[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
