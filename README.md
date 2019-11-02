@@ -80,7 +80,8 @@
 ## 回溯
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度  
   
-&#160; &#160;&#160; &#160;[39.组合总和](https://leetcode-cn.com/problems/combination-sum/)
+&#160; &#160;&#160; &#160;[37.解数独](https://leetcode-cn.com/problems/sudoku-solver/)
+[39.组合总和](https://leetcode-cn.com/problems/combination-sum/)
 [40.组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)
 [46.全排列](https://leetcode-cn.com/problems/permutations/)
 [78.子集](https://leetcode-cn.com/problems/subsets/)
@@ -129,6 +130,7 @@
 |   15.三数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ThreeSum.java) |
 |   18.四数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FourSum.java) |
 |   30.串联所有单词的子串  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/FindSubstring.java) |
+|   37.解数独  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/SolveSudoku.java) |
 |   39.组合总和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum.java) |
 |   40.组合总和II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum2.java) |
 |   46.全排列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Permute.java) |
