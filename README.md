@@ -72,6 +72,7 @@
 &#160; &#160;&#160; &#160;[122.买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
 [1081.不同字符的最小序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/submissions/)
+[1247.交换字符使得字符串相等](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/)
 
 ## 滑动窗口
 &#160; &#160;&#160; &#160;[3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
@@ -195,3 +196,4 @@
 |   1221.分割平衡字符串 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/BalancedStringSplit.java) |
 |   1226.哲学家进餐 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiningPhilosophers.java) |
 |   1234. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
+|   1247.交换字符使得字符串相等 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinimumSwap.java) |
