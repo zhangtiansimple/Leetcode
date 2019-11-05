@@ -1,8 +1,10 @@
 # LeetCode解题
 
-#### Leetcode解题记录及依笔者浅见每种问题具有代表性题目的归纳,由于Leetcode早已从150题步入到了现在的千题时代，笔者尽可能的在这里做一个优选，希望此项目可以帮助小伙伴们更快的掌握对应的知识点～
+#### Leetcode解题记录及每种问题具有代表性题目的归纳,由于Leetcode早已从150题步入到了现在的千题时代，笔者尽可能的在这里做一个优选，希望此项目可以帮助小伙伴们更快的掌握对应的知识点～
 
 #### 每一道题目都可能有多种不同的解法，同时每一道题目也可能是多个知识点的综合,下面的归纳选取的是在一定程度上能体现其解法的题目
+
+#### 文档上方为原题链接 下方表格为解题与注释 方便小伙伴查看
 
 ## 信心题
 &#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
@@ -76,6 +78,7 @@
 
 ## 滑动窗口
 &#160; &#160;&#160; &#160;[3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+[567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 
 ## 回溯
@@ -177,6 +180,7 @@
 |   416.分割等和子集  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanPartition416.java) |
 |   417.太平洋大西洋水流问题  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PacificAtlantic.java) |
 |   473.火柴拼正方形  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MakeSquare.java) |
+|   567.字符串的排列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckInclusion.java) |
 |   691.贴纸拼词  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinStickers.java) |
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
