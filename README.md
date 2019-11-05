@@ -79,6 +79,7 @@
 ## 滑动窗口
 &#160; &#160;&#160; &#160;[3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
+[1004.最大连续1的个数III ](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 
 ## 回溯
@@ -185,6 +186,7 @@
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
 |   931.下降路径最小和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinFallingPathSum.java) |
+|   1004.最大连续1的个数III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestOnes.java) |
 |   1046.最后一块石头的重量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LastStoneWeight.java) |
 |   1081.不同字符的最小序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestSubsequence.java) |
 |   1143.最长公共子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java) |
