@@ -78,6 +78,7 @@
 
 ## 滑动窗口
 &#160; &#160;&#160; &#160;[3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+[76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 [567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 [1004.最大连续1的个数III ](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
@@ -143,6 +144,7 @@
 |   63.不同路径II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePathsWithObstacles.java)|
 |   64.最小路径和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinPathSum.java)|
 |   72.编辑距离  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinDistance.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinDistance)|
+|   76.最小覆盖子串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinWindow.java)|
 |   78.子集 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Subsets.java)|
 |   90.子集II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubsetsWithDup.java)|
 |   94.二叉树的中序遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InorderTraversal.java)  [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InOrderTraversal) |
