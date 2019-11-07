@@ -6,11 +6,6 @@
 
 #### 文档上方为原题链接 下方表格为解题与注释 方便小伙伴查看
 
-## 信心题
-&#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
-[1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
-[1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
-
 ## 动态规划
 #### &#160; &#160;--寻路问题
 &#160; &#160; &#160; &#160;[62.不同路径 ](https://leetcode-cn.com/problems/unique-paths/)
@@ -100,6 +95,7 @@
 ## 哈希表
 &#160; &#160;&#160; &#160;[1.两数之和](https://leetcode-cn.com/problems/two-sum/)
 [30.串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
+[594.最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)
 
 ## 排序
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
@@ -125,6 +121,11 @@
 ## 数学
 &#160; &#160;&#160; &#160;[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+
+## 信心题
+&#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+[1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
+[1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
 
 
 |      题目      |      难度     |     语言    |
@@ -186,6 +187,7 @@
 |   417.太平洋大西洋水流问题  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PacificAtlantic.java) |
 |   473.火柴拼正方形  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MakeSquare.java) |
 |   567.字符串的排列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckInclusion.java) |
+|   594.最长和谐子序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLHS.java) |
 |   691.贴纸拼词  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinStickers.java) |
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
