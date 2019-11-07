@@ -100,6 +100,9 @@
 ## 排序
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
 
+## 二分查找
+&#160; &#160;&#160; &#160;[153.寻找排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+
 ## 剪枝
 &#160; &#160;&#160; &#160;[15.三数之和](https://leetcode-cn.com/problems/3sum/)
 [18.四数之和](https://leetcode-cn.com/problems/4sum/)
@@ -165,6 +168,7 @@
 |   130.被围绕的区域  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve)|
 |   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
+|   153.寻找排序数组中的最小值  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMin.java) |
 |   160.相交链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/GetIntersectionNode.java) |
 |   179.最大数  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LargestNumber.java) |
 |   198.打家劫舍  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Rob.java) |
