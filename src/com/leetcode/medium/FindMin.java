@@ -19,7 +19,7 @@ package com.leetcode.medium;
  *
  * 输入: [4,5,6,7,0,1,2]
  * 输出: 0
- * 
+ *
  * */
 
 public class FindMin {
