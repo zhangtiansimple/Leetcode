@@ -20,6 +20,8 @@
 [300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 #### &#160; &#160;--最长公共子序列问题
 &#160; &#160; &#160; &#160;[1143.最长公共子序列](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java)
+#### &#160; &#160;--智能存储
+&#160; &#160; &#160; &#160;[304.二维区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 #### &#160; &#160;--其他
 &#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
 [198.打家劫舍](https://leetcode-cn.com/problems/house-robber/)
@@ -191,6 +193,7 @@
 |   234.回文链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsPalindrome.java) |
 |   241.为运算表达式设计优先级  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiffWaysToCompute.java) |
 |   300.最长上升子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLIS.java) |
+|   304.二维区域和检索-矩阵不可变  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumMatrix.java) |
 |   309.最佳买卖股票时机含冷冻期  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProfit.java) |
 |   322.零钱兑换  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CoinChange.java) |
 |   337.打家劫舍III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RobIII.java) |
