@@ -1,7 +1,7 @@
 package com.leetcode.easy;
 
 import java.util.LinkedList;
-import java.util.List;
+import java.util.Queue;
 
 /**
  *
@@ -20,34 +20,42 @@ import java.util.List;
  *
  * */
 
-public class MyStack {
-
-    List<Integer> list;
-
+class MyStack {
+    Queue<Integer> inputQueue;
+    Queue<Integer> outputQueue;
     /** Initialize your data structure here. */
     public MyStack() {
-        list = new LinkedList<>();
+        inputQueue = new LinkedList<>();
+        outputQueue = new LinkedList<>();
     }
 
     /** Push element x onto stack. */
     public void push(int x) {
-        list.add(x);
+        inputQueue.add(x);
     }
 
     /** Removes the element on top of the stack and returns that element. */
     public int pop() {
-        int val = list.get(list.size() - 1);
-        list.remove(list.size() - 1);
-        return val;
+        while (!inputQueue.isEmpty() && inputQueue.size() > 1){
+            outputQueue.add(inputQueue.poll());
+        }
+        int topElement = inputQueue.poll();
+        inputQueue = outputQueue;
+        outputQueue = new LinkedList<>();
+        return topElement;
     }
 
     /** Get the top element. */
     public int top() {
-        return list.get(list.size() - 1);
+        while (!inputQueue.isEmpty() && inputQueue.size() > 1){
+            outputQueue.add(inputQueue.poll());
+        }
+        return inputQueue.peek();
     }
 
     /** Returns whether the stack is empty. */
     public boolean empty() {
-        return list.size() == 0;
+        return inputQueue.isEmpty() && outputQueue.isEmpty();
     }
 }
+
