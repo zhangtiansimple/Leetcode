@@ -129,6 +129,7 @@
 
 ## 设计
 &#160; &#160;&#160; &#160;[155.最小栈](https://leetcode-cn.com/problems/min-stack/)
+[225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 
 ## 字符串
 &#160; &#160;&#160; &#160;[165.比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
@@ -190,6 +191,7 @@
 |   213.打家劫舍II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Rob.java) |
 |   216.组合总和III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum3.java) |
 |   221.最大正方形  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaximalSquare.java) |
+|   225.用队列实现栈  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MyStack.java) |
 |   234.回文链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsPalindrome.java) |
 |   241.为运算表达式设计优先级  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiffWaysToCompute.java) |
 |   300.最长上升子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLIS.java) |
