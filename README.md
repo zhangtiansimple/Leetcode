@@ -115,6 +115,7 @@
 
 ## 栈
 &#160; &#160;&#160; &#160;[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+[1029.删除字符串中所有相邻重复项II ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
  
 ## 多线程
 &#160; &#160;&#160; &#160;[1226.哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)
@@ -216,6 +217,7 @@
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
 |   931.下降路径最小和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinFallingPathSum.java) |
 |   1004.最大连续1的个数III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestOnes.java) |
+|   1029.删除字符串中所有相邻重复项II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveDuplicates.java) |
 |   1046.最后一块石头的重量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LastStoneWeight.java) |
 |   1081.不同字符的最小序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestSubsequence.java) |
 |   1143.最长公共子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java) |
