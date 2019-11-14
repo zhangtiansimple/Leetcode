@@ -90,6 +90,7 @@
 [46.全排列](https://leetcode-cn.com/problems/permutations/)
 [78.子集](https://leetcode-cn.com/problems/subsets/)
 [90.子集II](https://leetcode-cn.com/problems/subsets-ii/)
+[131.分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
 [216.组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/)
 [691.贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
@@ -184,6 +185,7 @@
 |   122.买卖股票的最佳时机II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxProfitII.java) |
 |   124.二叉树中的最大路径和  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MaxPathSum.java) |
 |   130.被围绕的区域  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve)|
+|   131.分割回文串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Partition.java) |
 |   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
 |   153.寻找排序数组中的最小值  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMin.java) |
