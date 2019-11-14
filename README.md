@@ -93,6 +93,7 @@
 [216.组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/)
 [691.贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
+[1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 
 ## 哈希表
 &#160; &#160;&#160; &#160;[1.两数之和](https://leetcode-cn.com/problems/two-sum/)
@@ -238,4 +239,5 @@
 |   1221.分割平衡字符串 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/BalancedStringSplit.java) |
 |   1226.哲学家进餐 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiningPhilosophers.java) |
 |   1234. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
+|   1239. 串联字符串的最大长度 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxLength.java) |
 |   1247.交换字符使得字符串相等 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinimumSwap.java) |
