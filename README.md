@@ -88,6 +88,7 @@
 [39.组合总和](https://leetcode-cn.com/problems/combination-sum/)
 [40.组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)
 [46.全排列](https://leetcode-cn.com/problems/permutations/)
+[47.全排列II](https://leetcode-cn.com/problems/permutations-ii/)
 [78.子集](https://leetcode-cn.com/problems/subsets/)
 [90.子集II](https://leetcode-cn.com/problems/subsets-ii/)
 [131.分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
@@ -165,6 +166,7 @@
 |   39.组合总和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum.java) |
 |   40.组合总和II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum2.java) |
 |   46.全排列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Permute.java) |
+|   47.全排列II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PermuteUnique.java) |
 |   62.不同路径  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePaths.java)|
 |   63.不同路径II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePathsWithObstacles.java)|
 |   64.最小路径和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinPathSum.java)|
