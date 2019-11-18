@@ -138,6 +138,7 @@
 ## 数学
 &#160; &#160;&#160; &#160;[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+[1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)
 
 ## 设计
 &#160; &#160;&#160; &#160;[155.最小栈](https://leetcode-cn.com/problems/min-stack/)
@@ -251,3 +252,4 @@
 |   1234. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
 |   1239. 串联字符串的最大长度 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxLength.java) |
 |   1247.交换字符使得字符串相等 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinimumSwap.java) |
+|   1262. 可被三整除的最大和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
