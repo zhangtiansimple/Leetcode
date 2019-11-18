@@ -62,6 +62,7 @@ public class MaxSumDivThree {
             return sum;
         }
 
+
         if (key == 1){
             //删除1个余数为1的数或者两个余数为2的数
             if (modTwo.size() >= 2) {
