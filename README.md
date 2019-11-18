@@ -66,6 +66,7 @@
 [417.太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
 [473.火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/)
 [695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/comments/)
+[1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)
 
 ## 贪心
 &#160; &#160;&#160; &#160;[122.买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
@@ -252,4 +253,5 @@
 |   1234. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
 |   1239. 串联字符串的最大长度 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxLength.java) |
 |   1247.交换字符使得字符串相等 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinimumSwap.java) |
+|   1254.统计封闭岛屿的数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
 |   1262. 可被三整除的最大和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
