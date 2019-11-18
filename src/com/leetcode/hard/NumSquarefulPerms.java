@@ -8,7 +8,7 @@ public class NumSquarefulPerms {
 
     //官方解题使用图的做法效率更高
     //https://leetcode-cn.com/problems/number-of-squareful-arrays/solution/zheng-fang-xing-shu-zu-de-shu-mu-by-leetcode/
-    
+
     //下面是普通的回溯解法
     private int res = 0;
 
