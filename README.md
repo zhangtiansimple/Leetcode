@@ -68,6 +68,9 @@
 [695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/comments/)
 [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)
 
+## BFS
+&#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
+
 ## 贪心
 &#160; &#160;&#160; &#160;[122.买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
@@ -225,6 +228,7 @@
 |   417.太平洋大西洋水流问题  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PacificAtlantic.java) |
 |   473.火柴拼正方形  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MakeSquare.java) |
 |   525.连续数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMaxLength.java) |
+|   542.01矩阵  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UpdateMatrix.java) |
 |   560.和为k的子数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubarraySum.java) |
 |   567.字符串的排列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckInclusion.java) |
 |   594.最长和谐子序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLHS.java) |
