@@ -61,7 +61,6 @@
 &#160; &#160;&#160; &#160;[203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 
 
-#### 建议这些题目都用DFS和BFS两种方法做一遍
 ## DFS
 &#160; &#160;&#160; &#160;[130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 [200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/submissions/)
@@ -74,6 +73,8 @@
 
 ## BFS
 &#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
+#### 建议这些题目都用DFS和BFS两种方法做一遍
+
 
 ## 拓扑排序
 &#160; &#160;&#160; &#160;[207.课程表](https://leetcode-cn.com/problems/course-schedule/)
