@@ -153,6 +153,7 @@
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1253.重构2行二进制序列](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)
 [1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)
+[1267.统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate/)
 
 ## 设计
 &#160; &#160;&#160; &#160;[155.最小栈](https://leetcode-cn.com/problems/min-stack/)
@@ -273,4 +274,5 @@
 |   1247.交换字符使得字符串相等 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinimumSwap.java) |
 |   1253.重构2行二进制序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReconstructMatrix.java) |
 |   1254.统计封闭岛屿的数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
-|   1262. 可被三整除的最大和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
+|   1262.可被三整除的最大和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
+|   1267.统计参与通信的服务器 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CountServers.java) |
