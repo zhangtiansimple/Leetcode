@@ -60,6 +60,7 @@
 #### &#160; &#160;--虚拟头结点
 &#160; &#160;&#160; &#160;[203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 
+
 ## DFS
 &#160; &#160;&#160; &#160;[130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)
 [200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/submissions/)
@@ -67,10 +68,13 @@
 [473.火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/)
 [695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/comments/)
 [785.判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)
+[934.最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)
 [1254.统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)
 
 ## BFS
 &#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
+#### 建议这些题目都用DFS和BFS两种方法做一遍
+
 
 ## 拓扑排序
 &#160; &#160;&#160; &#160;[207.课程表](https://leetcode-cn.com/problems/course-schedule/)
@@ -245,6 +249,7 @@
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
 |   785.判断二分图  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsBipartite.java) |
 |   931.下降路径最小和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinFallingPathSum.java) |
+|   934.最短的桥  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestBridge.java) |
 |   996.正方形数组的数目  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumSquarefulPerms.java) |
 |   1004.最大连续1的个数III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestOnes.java) |
 |   1029.删除字符串中所有相邻重复项II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveDuplicates.java) |
