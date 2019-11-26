@@ -150,7 +150,8 @@
 [525.连续数组](https://leetcode-cn.com/problems/contiguous-array/comments/)
 
 ## 数学
-&#160; &#160;&#160; &#160;[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
+&#160; &#160;&#160; &#160;[LCP 3.机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/)
+[391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1253.重构2行二进制序列](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)
 [1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)
@@ -175,6 +176,7 @@
 | ------------- |:-------------:|:-------------:|
 |   LCP 1.猜数字  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Game.java) |
 |   LCP 2.化简分式  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Fraction.java) |
+|   LCP 3.机器人大冒险  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Robot.java) |
 |   1.两数之和  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/TwoSum.java) |
 |   2.两数之和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/AddTwoNumbers.java) |
 |   3.无重复字符的最长子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLongestSubstring.java) |
