@@ -31,6 +31,7 @@
 [337.打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/)
 [413.等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
+[1269.停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
 
 ## 树
 #### &#160; &#160;--遍历
@@ -276,3 +277,4 @@
 |   1254.统计封闭岛屿的数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
 |   1262.可被三整除的最大和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
 |   1267.统计参与通信的服务器 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CountServers.java) |
+|   1269.停在原地的方案数 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumWays.java) |
