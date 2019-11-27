@@ -153,6 +153,7 @@
 
 ## 数学
 &#160; &#160;&#160; &#160;[LCP 3.机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/)
+[119.杨辉三角II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 [391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1253.重构2行二进制序列](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)
@@ -208,6 +209,7 @@
 |   108.将有序数组转换为二叉搜索树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/SortedArrayToBST.java) |
 |   110.平衡二叉树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsBalanced.java) |
 |   112.路径总和  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasPathSum.java) |
+|   119.杨辉三角II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/GetRow.java) |
 |   120.三角形最小路径和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinimumTotal.java) |
 |   122.买卖股票的最佳时机II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxProfitII.java) |
 |   124.二叉树中的最大路径和  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MaxPathSum.java) |
