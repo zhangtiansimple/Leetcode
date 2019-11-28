@@ -155,6 +155,7 @@
 &#160; &#160;&#160; &#160;[LCP 3.机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/)
 [119.杨辉三角II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 [391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
+[401.二进制手表](https://leetcode-cn.com/problems/binary-watch/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1253.重构2行二进制序列](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)
 [1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)
@@ -242,6 +243,7 @@
 |   322.零钱兑换  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CoinChange.java) |
 |   337.打家劫舍III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RobIII.java) |
 |   391.完美矩形  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/IsRectangleCover.java) |
+|   401.二进制手表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReadBinaryWatch.java) |
 |   402.移掉K位数字  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveKdigits.java) |
 |   413.等差数列划分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfArithmeticSlices.java) |
 |   416.分割等和子集  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanPartition416.java) |
