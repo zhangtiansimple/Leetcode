@@ -111,6 +111,7 @@
 [131.分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
 [216.组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/)
 [691.贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/)
+[842.将数组拆分成斐波那契数列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)
 [996.正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays/)
 [1079.活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities/)
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
@@ -260,6 +261,7 @@
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
 |   785.判断二分图  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsBipartite.java) |
+|   842.将数组拆分成斐波那契数列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SplitIntoFibonacci.java) |
 |   931.下降路径最小和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinFallingPathSum.java) |
 |   934.最短的桥  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestBridge.java) |
 |   996.正方形数组的数目  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumSquarefulPerms.java) |
