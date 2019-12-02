@@ -26,6 +26,7 @@
 &#160; &#160; &#160; &#160;[304.二维区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 #### &#160; &#160;--其他
 &#160; &#160; &#160; &#160;[72.编辑距离 ](https://leetcode-cn.com/problems/edit-distance/)
+[132.分割回文串II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
 [198.打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 [213.打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/comments/)
 [221.最大正方形](https://leetcode-cn.com/problems/maximal-square/)
@@ -218,6 +219,7 @@
 |   124.二叉树中的最大路径和  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MaxPathSum.java) |
 |   130.被围绕的区域  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Solve)|
 |   131.分割回文串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Partition.java) |
+|   132.分割回文串II  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinCut.java)|
 |   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
 |   153.寻找排序数组中的最小值  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMin.java) |
