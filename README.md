@@ -33,6 +33,7 @@
 [309.最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 [337.打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/)
 [413.等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
+[1039.多边形三角剖分的最低分](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 [1269.停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
 
@@ -274,6 +275,7 @@
 |   996.正方形数组的数目  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumSquarefulPerms.java) |
 |   1004.最大连续1的个数III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestOnes.java) |
 |   1029.删除字符串中所有相邻重复项II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveDuplicates.java) |
+|   1039.多边形三角剖分的最低分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinScoreTriangulation.java) |
 |   1046.最后一块石头的重量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LastStoneWeight.java) |
 |   1072.按列翻转得到最大行数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEqualRowsAfterFlips.java) |
 |   1079.活字印刷 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTilePossibilities.java) |
