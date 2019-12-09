@@ -131,7 +131,8 @@
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
 
 ## 二分查找
-&#160; &#160;&#160; &#160;[1281.使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)
+&#160; &#160;&#160; &#160;[33. 搜索旋转排序数组](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Search.java)
+[1281.使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)
 
 ## 剪枝
 &#160; &#160;&#160; &#160;[15.三数之和](https://leetcode-cn.com/problems/3sum/)
@@ -194,6 +195,7 @@
 |   15.三数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ThreeSum.java) |
 |   18.四数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FourSum.java) |
 |   30.串联所有单词的子串  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/FindSubstring.java) |
+|   33. 搜索旋转排序数组 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Search.java) |
 |   37.解数独  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/SolveSudoku.java) |
 |   39.组合总和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum.java) |
 |   40.组合总和II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationSum2.java) |
