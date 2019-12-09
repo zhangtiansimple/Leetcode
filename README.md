@@ -82,6 +82,8 @@
 &#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
 #### 建议这些题目都用DFS和BFS两种方法做一遍
 
+## 二分查找
+&#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
 
 ## 拓扑排序
 &#160; &#160;&#160; &#160;[207.课程表](https://leetcode-cn.com/problems/course-schedule/)
@@ -132,7 +134,7 @@
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
 
 ## 二分查找
-&#160; &#160;&#160; &#160;[153.寻找排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+&#160; &#160;&#160; &#160;[1281.使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)
 
 ## 剪枝
 &#160; &#160;&#160; &#160;[15.三数之和](https://leetcode-cn.com/problems/3sum/)
@@ -302,3 +304,4 @@
 |   1262.可被三整除的最大和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
 |   1267.统计参与通信的服务器 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CountServers.java) |
 |   1269.停在原地的方案数 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumWays.java) |
+|   1281.使结果不超过阈值的最小除数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestDivisor.java) |
