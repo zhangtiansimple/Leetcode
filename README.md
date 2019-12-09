@@ -82,9 +82,6 @@
 &#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
 #### 建议这些题目都用DFS和BFS两种方法做一遍
 
-## 二分查找
-&#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
-
 ## 拓扑排序
 &#160; &#160;&#160; &#160;[207.课程表](https://leetcode-cn.com/problems/course-schedule/)
 [210.课程表II](https://leetcode-cn.com/problems/course-schedule-ii/)
