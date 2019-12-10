@@ -132,6 +132,7 @@
 
 ## 二分查找
 &#160; &#160;&#160; &#160;[33. 搜索旋转排序数组](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Search.java)
+[81.搜索旋转数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
 [1281.使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)
 
 ## 剪枝
@@ -209,6 +210,7 @@
 |   76.最小覆盖子串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinWindow.java)|
 |   77.组合 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Combine.java)|
 |   78.子集 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Subsets.java)|
+|   81.搜索旋转数组II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SearchII.java)|
 |   90.子集II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubsetsWithDup.java)|
 |   94.二叉树的中序遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InorderTraversal.java)  [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InOrderTraversal) |
 |   95.不同的二叉搜索树II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GenerateTrees.java) |
