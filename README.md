@@ -119,6 +119,7 @@
 [996.正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays/)
 [1079.活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities/)
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
+[1286. 字母组合迭代器](https://leetcode-cn.com/problems/iterator-for-combination/)
 [1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 
 ## 哈希表
@@ -309,4 +310,5 @@
 |   1267.统计参与通信的服务器 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CountServers.java) |
 |   1269.停在原地的方案数 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumWays.java) |
 |   1281.使结果不超过阈值的最小除数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestDivisor.java) |
+|   1286. 字母组合迭代器 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationIterator.java) |
 |   1288.有序数组中出现次数超过25%的元素 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindSpecialInteger.java) |
