@@ -15,6 +15,7 @@
 [64.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 [120.三角形最小路径和](https://leetcode-cn.com/problems/triangle/comments/)
 [931.下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
+[1289.下降路径最小和II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii/)
 #### &#160; &#160;--背包问题
 &#160; &#160; &#160; &#160;[322.零钱兑换](https://leetcode-cn.com/problems/coin-change/) [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 #### &#160; &#160;--最长上升子序列问题
@@ -312,3 +313,4 @@
 |   1281.使结果不超过阈值的最小除数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestDivisor.java) |
 |   1286. 字母组合迭代器 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationIterator.java) |
 |   1288.有序数组中出现次数超过25%的元素 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindSpecialInteger.java) |
+|   1289.下降路径最小和II |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinFallingPathSum.java) |
