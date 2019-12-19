@@ -160,6 +160,7 @@
 ## 前缀和
 &#160; &#160;&#160; &#160;
 [525.连续数组](https://leetcode-cn.com/problems/contiguous-array/comments/)
+[1292. 元素和小于等于阈值的正方形的最大边长](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)
 
 ## 数学
 &#160; &#160;&#160; &#160;[LCP 3.机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/)
@@ -314,3 +315,4 @@
 |   1286. 字母组合迭代器 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CombinationIterator.java) |
 |   1288.有序数组中出现次数超过25%的元素 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindSpecialInteger.java) |
 |   1289.下降路径最小和II |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinFallingPathSum.java) |
+|   1292. 元素和小于等于阈值的正方形的最大边长 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSideLength.java) |
