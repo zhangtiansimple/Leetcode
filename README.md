@@ -150,7 +150,8 @@
 [1029.删除字符串中所有相邻重复项II ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
  
 ## 多线程
-&#160; &#160;&#160; &#160;[1226.哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)
+&#160; &#160;&#160; &#160;[1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/)
+[1226.哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/)
 
 ## 分治
 &#160; &#160;&#160; &#160;
@@ -291,6 +292,7 @@
 |   1072.按列翻转得到最大行数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEqualRowsAfterFlips.java) |
 |   1079.活字印刷 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTilePossibilities.java) |
 |   1081.不同字符的最小序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestSubsequence.java) |
+|   1115. 交替打印FooBar |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FooBar.java) |
 |   1143.最长公共子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java) |
 |   1171.从链表中删去总和值为零的连续结点  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveZeroSumSublists.java) |
 |   1189.气球的最大数量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxNumberOfBalloons.java) |
