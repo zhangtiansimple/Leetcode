@@ -128,6 +128,7 @@
 [30.串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
 [560.和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 [594.最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)
+[720.词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
 
 ## 排序
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
@@ -278,6 +279,7 @@
 |   594.最长和谐子序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLHS.java) |
 |   691.贴纸拼词  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinStickers.java) |
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
+|   720.词典中最长的单词  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LongestWord.java) |
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
 |   785.判断二分图  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsBipartite.java) |
 |   842.将数组拆分成斐波那契数列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SplitIntoFibonacci.java) |
