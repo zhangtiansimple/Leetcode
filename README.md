@@ -184,6 +184,7 @@
 ## 字符串
 &#160; &#160;&#160; &#160;[165.比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
 [402.移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+[1156.单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)
 
 ## 信心题
 &#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
@@ -296,6 +297,7 @@
 |   1081.不同字符的最小序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestSubsequence.java) |
 |   1115. 交替打印FooBar |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FooBar.java) |
 |   1143.最长公共子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java) |
+|   1156.单字符重复子串的最大长度  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxRepOpt1.java) |
 |   1171.从链表中删去总和值为零的连续结点  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveZeroSumSublists.java) |
 |   1189.气球的最大数量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxNumberOfBalloons.java) |
 |   1190.反转每对括号间的子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses)|
