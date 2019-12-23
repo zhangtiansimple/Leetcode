@@ -100,6 +100,7 @@
 [567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 [1004.最大连续1的个数III ](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
+[1297.子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/)
 
 ## 回溯
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度  
@@ -322,3 +323,4 @@
 |   1288.有序数组中出现次数超过25%的元素 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindSpecialInteger.java) |
 |   1289.下降路径最小和II |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinFallingPathSum.java) |
 |   1292. 元素和小于等于阈值的正方形的最大边长 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSideLength.java) |
+|   1297.子串的最大出现次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
