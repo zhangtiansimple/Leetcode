@@ -130,6 +130,7 @@
 [560.和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 [594.最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)
 [720.词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
+[1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
 
 ## 排序
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
@@ -313,6 +314,7 @@
 |   1234. 替换子串得到平衡字符串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BalancedString.java) |
 |   1239. 串联字符串的最大长度 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxLength.java) |
 |   1247.交换字符使得字符串相等 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinimumSwap.java) |
+|   1248. 统计「优美子数组」 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfSubarrays.java) |
 |   1253.重构2行二进制序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReconstructMatrix.java) |
 |   1254.统计封闭岛屿的数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
 |   1262.可被三整除的最大和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumDivThree.java) |
