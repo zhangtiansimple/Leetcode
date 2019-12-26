@@ -45,7 +45,6 @@
 [102.二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 [103.二叉树的锯齿形遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 [107.二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
-[199.二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 #### &#160; &#160;--树的结构（具有天然的递归性质）
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
@@ -54,6 +53,9 @@
 [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
 [112.路径总和](https://leetcode-cn.com/problems/path-sum/)
 [124.二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+#### &#160; &#160;--广度优先搜索
+&#160; &#160;&#160; &#160;[116.填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+[199.二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 
 ## 链表
 #### &#160; &#160;--基础
@@ -234,6 +236,7 @@
 |   110.平衡二叉树  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsBalanced.java) |
 |   112.路径总和  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasPathSum.java) |
 |   113.路径总和II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PathSum.java) |
+|   116.填充每个节点的下一个右侧节点指针  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Connect.java) |
 |   119.杨辉三角II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/GetRow.java) |
 |   120.三角形最小路径和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinimumTotal.java) |
 |   122.买卖股票的最佳时机II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxProfitII.java) |
