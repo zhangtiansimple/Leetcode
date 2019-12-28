@@ -46,6 +46,7 @@
 [103.二叉树的锯齿形遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 [107.二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 [230.二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+[501.二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
 #### &#160; &#160;--树的结构（具有天然的递归性质）
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
@@ -282,6 +283,7 @@
 |   416.分割等和子集  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanPartition416.java) |
 |   417.太平洋大西洋水流问题  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PacificAtlantic.java) |
 |   473.火柴拼正方形  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MakeSquare.java) |
+|   501.二叉搜索树中的众数  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindMode.java) |
 |   525.连续数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMaxLength.java) |
 |   542.01矩阵  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UpdateMatrix.java) |
 |   560.和为k的子数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubarraySum.java) |
