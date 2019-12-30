@@ -103,6 +103,7 @@
 [76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 [209.长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
 [567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
+[904.水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
 [1004.最大连续1的个数III ](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 [1297.子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/)
@@ -295,6 +296,7 @@
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
 |   785.判断二分图  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsBipartite.java) |
 |   842.将数组拆分成斐波那契数列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SplitIntoFibonacci.java) |
+|   904.水果成篮  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TotalFruit.java) |
 |   931.下降路径最小和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinFallingPathSum.java) |
 |   934.最短的桥  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestBridge.java) |
 |   996.正方形数组的数目  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumSquarefulPerms.java) |
