@@ -190,7 +190,8 @@
 [232.用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 
 ## 字符串
-&#160; &#160;&#160; &#160;[165.比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
+&#160; &#160;&#160; &#160;[80.删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
+[165.比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
 [402.移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 [1156.单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)
 
@@ -226,6 +227,7 @@
 |   76.最小覆盖子串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinWindow.java)|
 |   77.组合 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Combine.java)|
 |   78.子集 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Subsets.java)|
+|   80.删除排序数组中的重复项 II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveDuplicatesII.java)|
 |   81.搜索旋转数组II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SearchII.java)|
 |   90.子集II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubsetsWithDup.java)|
 |   94.二叉树的中序遍历  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InorderTraversal.java)  [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/InOrderTraversal) |
