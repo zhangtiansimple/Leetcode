@@ -134,6 +134,7 @@
 ## 哈希表
 &#160; &#160;&#160; &#160;[1.两数之和](https://leetcode-cn.com/problems/two-sum/)
 [30.串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
+[387.字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 [560.和为k的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 [594.最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)
 [720.词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
@@ -280,6 +281,7 @@
 |   322.零钱兑换  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CoinChange.java) |
 |   337.打家劫舍III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RobIII.java) |
 |   357.计算各个位数不同的数字个数  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CountNumbersWithUniqueDigits.java) |
+|   387.字符串中的第一个唯一字符  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FirstUniqChar.java) |
 |   391.完美矩形  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/IsRectangleCover.java) |
 |   401.二进制手表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReadBinaryWatch.java) |
 |   402.移掉K位数字  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveKdigits.java) |
