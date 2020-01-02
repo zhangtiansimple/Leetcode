@@ -86,6 +86,7 @@
 
 ## BFS
 &#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
+[1293. 网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 #### 建议这些题目都用DFS和BFS两种方法做一遍
 
 ## 拓扑排序
@@ -338,4 +339,5 @@
 |   1288.有序数组中出现次数超过25%的元素 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindSpecialInteger.java) |
 |   1289.下降路径最小和II |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinFallingPathSum.java) |
 |   1292. 元素和小于等于阈值的正方形的最大边长 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSideLength.java) |
+|   1293. 网格中的最短路径 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/ShortestPath.java) |
 |   1297.子串的最大出现次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
