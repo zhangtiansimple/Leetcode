@@ -51,7 +51,7 @@
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 #### &#160; &#160;--BST的性质
-[1305.两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
+&#160; &#160;&#160; &#160;[1305.两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
 #### &#160; &#160;--深度优先搜索
 &#160; &#160;&#160; &#160;[108.将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
