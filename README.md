@@ -156,7 +156,8 @@
 [18.四数之和](https://leetcode-cn.com/problems/4sum/)
 
 ## 堆
-&#160; &#160;&#160; &#160;[1046.最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+&#160; &#160;&#160; &#160;[347.前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+[1046.最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
 
 ## 栈
 &#160; &#160;&#160; &#160;[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
@@ -282,6 +283,7 @@
 |   309.最佳买卖股票时机含冷冻期  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProfit.java) |
 |   322.零钱兑换  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CoinChange.java) |
 |   337.打家劫舍III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RobIII.java) |
+|   347.前K个高频元素  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TopKFrequent.java) |
 |   357.计算各个位数不同的数字个数  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CountNumbersWithUniqueDigits.java) |
 |   387.字符串中的第一个唯一字符  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FirstUniqChar.java) |
 |   391.完美矩形  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/IsRectangleCover.java) |
