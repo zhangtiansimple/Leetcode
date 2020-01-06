@@ -89,6 +89,7 @@
 ## BFS
 &#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
 [1293. 网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
+[1311.获取你好友已观看的视频](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends/)
 #### 建议这些题目都用DFS和BFS两种方法做一遍
 
 ## 拓扑排序
@@ -348,3 +349,4 @@
 |   1293. 网格中的最短路径 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/ShortestPath.java) |
 |   1297.子串的最大出现次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
 |   1305.两棵二叉搜索树中的所有元素 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GetAllElements.java) |
+|   1311.获取你好友已观看的视频 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WatchedVideosByFriends.java) |
