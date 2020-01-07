@@ -38,6 +38,7 @@
 [1043.分割数组以得到最大和](https://leetcode-cn.com/problems/partition-array-for-maximum-sum/)
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 [1269.停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
+[1312.让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
 
 ## 树
 #### &#160; &#160;--遍历
@@ -350,3 +351,4 @@
 |   1297.子串的最大出现次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
 |   1305.两棵二叉搜索树中的所有元素 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GetAllElements.java) |
 |   1311.获取你好友已观看的视频 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WatchedVideosByFriends.java) |
+|   1312.让字符串成为回文串的最少插入次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinInsertions.java) |
