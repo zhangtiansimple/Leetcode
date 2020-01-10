@@ -183,6 +183,7 @@
 &#160; &#160;&#160; &#160;[LCP 3.机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/)
 [119.杨辉三角II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 [357.计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)
+[376.摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 [391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [401.二进制手表](https://leetcode-cn.com/problems/binary-watch/)
 [1072.按列翻转得到最大行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
@@ -287,6 +288,7 @@
 |   337.打家劫舍III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RobIII.java) |
 |   347.前K个高频元素  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TopKFrequent.java) |
 |   357.计算各个位数不同的数字个数  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CountNumbersWithUniqueDigits.java) |
+|   376.摆动序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WiggleMaxLength.java) |
 |   387.字符串中的第一个唯一字符  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FirstUniqChar.java) |
 |   391.完美矩形  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/IsRectangleCover.java) |
 |   401.二进制手表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReadBinaryWatch.java) |
