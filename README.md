@@ -209,6 +209,7 @@
 [1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
 [1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
 [1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/)
+[1316.不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/)
 
 
 |      题目      |      难度     |     语言    |
@@ -357,3 +358,4 @@
 |   1305.两棵二叉搜索树中的所有元素 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GetAllElements.java) |
 |   1311.获取你好友已观看的视频 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WatchedVideosByFriends.java) |
 |   1312.让字符串成为回文串的最少插入次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinInsertions.java) |
+|   1316.不同的循环子字符串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/DistinctEchoSubstrings.java) |
