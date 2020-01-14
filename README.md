@@ -97,11 +97,13 @@
 [210.课程表II](https://leetcode-cn.com/problems/course-schedule-ii/)
 
 ## 贪心
+#### 每一步都是最优解
 &#160; &#160;&#160; &#160;[122.买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 [435.无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
 [452.用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
 [1081.不同字符的最小序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/submissions/)
+[1053.交换一次的先前排列](https://leetcode-cn.com/problems/previous-permutation-with-one-swap/)
 [1247.交换字符使得字符串相等](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/)
 
 ## 滑动窗口
@@ -322,6 +324,7 @@
 |   1039.多边形三角剖分的最低分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinScoreTriangulation.java) |
 |   1043.分割数组以得到最大和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumAfterPartitioning.java) |
 |   1046.最后一块石头的重量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LastStoneWeight.java) |
+|   1053.交换一次的先前排列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PrevPermOpt1.java) |
 |   1072.按列翻转得到最大行数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEqualRowsAfterFlips.java) |
 |   1079.活字印刷 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTilePossibilities.java) |
 |   1081.不同字符的最小序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestSubsequence.java) |
