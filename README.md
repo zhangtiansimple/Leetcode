@@ -103,6 +103,7 @@
 [435.无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
 [452.用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
+[767.重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 [1081.不同字符的最小序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/submissions/)
 [1053.交换一次的先前排列](https://leetcode-cn.com/problems/previous-permutation-with-one-swap/)
 [1247.交换字符使得字符串相等](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/)
@@ -314,6 +315,7 @@
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   720.词典中最长的单词  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LongestWord.java) |
 |   763.划分字母区间  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PartitionLabels.java) |
+|   767.重构字符串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReorganizeString.java) |
 |   785.判断二分图  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsBipartite.java) |
 |   842.将数组拆分成斐波那契数列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SplitIntoFibonacci.java) |
 |   904.水果成篮  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TotalFruit.java) |
