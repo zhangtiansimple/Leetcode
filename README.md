@@ -207,6 +207,7 @@
 ## 字符串
 &#160; &#160;&#160; &#160;[80.删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
 [165.比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
+[243.最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance/)
 [402.移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 [1156.单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)
 
@@ -289,6 +290,7 @@
 |   234.回文链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsPalindrome.java) |
 |   240.搜索二维矩阵II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SearchMatrix.java) |
 |   241.为运算表达式设计优先级  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiffWaysToCompute.java) |
+|   243.最短单词距离  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ShortestDistance.java) |
 |   300.最长上升子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLIS.java) |
 |   304.二维区域和检索-矩阵不可变  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumMatrix.java) |
 |   309.最佳买卖股票时机含冷冻期  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProfit.java) |
