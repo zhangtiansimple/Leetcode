@@ -51,6 +51,7 @@
 #### &#160; &#160;--树的结构（具有天然的递归性质）
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+[1325.删除给定值的叶子节点](https://leetcode-cn.com/problems/delete-leaves-with-a-given-value/)
 #### &#160; &#160;--BST的性质
 &#160; &#160;&#160; &#160;[1008.先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 [1305.两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
@@ -371,3 +372,4 @@
 |   1311.获取你好友已观看的视频 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WatchedVideosByFriends.java) |
 |   1312.让字符串成为回文串的最少插入次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinInsertions.java) |
 |   1316.不同的循环子字符串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/DistinctEchoSubstrings.java) |
+|   1325.删除给定值的叶子节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveLeafNodes.java) |
