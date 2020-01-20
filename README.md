@@ -48,6 +48,7 @@
 [107.二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 [230.二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 [501.二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
+[663.均匀树划分](https://leetcode-cn.com/problems/equal-tree-partition/)
 #### &#160; &#160;--树的结构（具有天然的递归性质）
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
@@ -318,6 +319,7 @@
 |   560.和为k的子数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubarraySum.java) |
 |   567.字符串的排列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckInclusion.java) |
 |   594.最长和谐子序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLHS.java) |
+|   663.均匀树划分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckEqualTree.java) |
 |   691.贴纸拼词  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinStickers.java) |
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   720.词典中最长的单词  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LongestWord.java) |
