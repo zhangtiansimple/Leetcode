@@ -198,6 +198,7 @@
 [391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [401.二进制手表](https://leetcode-cn.com/problems/binary-watch/)
 [1072.按列翻转得到最大行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
+[1180. 统计只含单一字母的子串](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1253.重构2行二进制序列](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)
 [1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)
@@ -347,6 +348,7 @@
 |   1143.最长公共子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java) |
 |   1156.单字符重复子串的最大长度  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxRepOpt1.java) |
 |   1171.从链表中删去总和值为零的连续结点  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveZeroSumSublists.java) |
+|   1180.统计只含单一字母的子串  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CountLetters.java) |
 |   1189.气球的最大数量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxNumberOfBalloons.java) |
 |   1190.反转每对括号间的子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses)|
 |   1208. 尽可能使字符串相等 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/EqualSubstring.java) |
