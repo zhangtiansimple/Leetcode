@@ -122,6 +122,7 @@
 [1004.最大连续1的个数III ](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 [1297.子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/)
+[1350.大小为K且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 
 ## 回溯
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度  
@@ -381,3 +382,4 @@
 |   1316.不同的循环子字符串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/DistinctEchoSubstrings.java) |
 |   1325.删除给定值的叶子节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveLeafNodes.java) |
 |   1339.分裂二叉树的最大乘积 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProduct.java) |
+|   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
