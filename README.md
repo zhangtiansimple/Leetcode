@@ -165,6 +165,7 @@
 [81.搜索旋转数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
 [240.搜索二维矩阵II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 [1281.使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)
+[剑指offer 面试题04.二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 
 ## 剪枝
 &#160; &#160;&#160; &#160;[15.三数之和](https://leetcode-cn.com/problems/3sum/)
@@ -387,3 +388,4 @@
 |   1344.时钟指针的夹角 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/AngleClock.java) |
 |   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
+|   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
