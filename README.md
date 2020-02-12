@@ -71,6 +71,7 @@
 &#160; &#160;&#160; &#160;[2.两数之和 ](https://leetcode-cn.com/problems/add-two-numbers/)
 [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 [1171.从链表中删去总和值为零的连续结点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
+[剑指offer 面试题06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 #### &#160; &#160;--快慢指针
 &#160; &#160;&#160; &#160;[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 [234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
@@ -391,3 +392,4 @@
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
+|   剑指offer 面试题06.从尾到头打印链表 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReversePrint.java) |
