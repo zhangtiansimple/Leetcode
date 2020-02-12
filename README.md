@@ -226,6 +226,7 @@
 [1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
 [1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/)
 [1316.不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/)
+[剑指offer 面试题05.替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 
 |      题目      |      难度     |     语言    |
@@ -389,3 +390,4 @@
 |   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
+|   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
