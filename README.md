@@ -154,6 +154,7 @@
 [594.最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)
 [720.词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
 [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
+[剑指offer 面试题03.数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 ## 排序
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
@@ -385,3 +386,4 @@
 |   1339.分裂二叉树的最大乘积 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProduct.java) |
 |   1344.时钟指针的夹角 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/AngleClock.java) |
 |   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
+|   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
