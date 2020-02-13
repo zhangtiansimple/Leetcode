@@ -180,6 +180,7 @@
 ## 栈
 &#160; &#160;&#160; &#160;[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1029.删除字符串中所有相邻重复项II ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+[剑指offer 面试题09.用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
  
 ## 多线程
 &#160; &#160;&#160; &#160;[1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/)
@@ -395,3 +396,4 @@
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
 |   剑指offer 面试题06.从尾到头打印链表 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReversePrint.java) |
 |   剑指offer 面试题07.重建二叉树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BuildTree.java) |
+|   剑指offer 面试题09.用两个栈实现队列 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CQueue.java) |
