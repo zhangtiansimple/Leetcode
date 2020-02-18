@@ -77,6 +77,7 @@
 #### &#160; &#160;--快慢指针
 &#160; &#160;&#160; &#160;[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 [234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+[面试题 02.02.返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 #### &#160; &#160;--反转链表
 &#160; &#160;&#160; &#160;[206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
 #### &#160; &#160;--虚拟头结点
@@ -403,3 +404,4 @@
 |   剑指offer 面试题09.用两个栈实现队列 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CQueue.java) |
 |   剑指offer 面试题10- I.斐波那契数列 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Fib.java) |
 |   剑指offer 面试题11.旋转数组的最小数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinArray.java) |
+|   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
