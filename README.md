@@ -234,7 +234,7 @@
 &#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
 [1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
 [1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
-[1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array
+[1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)
 [1316.不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/)
 [面试题 01.08.零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/)
 [剑指offer 面试题05.替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
