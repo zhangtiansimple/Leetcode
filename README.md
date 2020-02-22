@@ -75,6 +75,7 @@
 [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 [1171.从链表中删去总和值为零的连续结点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
 [剑指offer 面试题06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+[剑指offer 面试题25.合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
 #### &#160; &#160;--快慢指针
 &#160; &#160;&#160; &#160;[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 [234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
@@ -407,6 +408,7 @@
 |   剑指offer 面试题09.用两个栈实现队列 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CQueue.java) |
 |   剑指offer 面试题10- I.斐波那契数列 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Fib.java) |
 |   剑指offer 面试题11.旋转数组的最小数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinArray.java) |
+|   剑指offer 面试题25.合并两个排序的链表 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MergeTwoLists.java) |
 |   剑指offer 面试题26.树的子结构 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSubStructure.java) |
 |   剑指offer 面试题53-II.0～n-1中缺失的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MissingNumber.java) |
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
