@@ -130,6 +130,7 @@
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 [1297.子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/)
 [1350.大小为K且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+[1358.包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/)
 
 ## 回溯
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度  
@@ -400,6 +401,7 @@
 |   1344.时钟指针的夹角 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/AngleClock.java) |
 |   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
 |   1353.最多可以参加的会议数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEvents.java) |
+|   1358.包含所有三种字符的子字符串数目|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfSubstrings.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
