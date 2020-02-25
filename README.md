@@ -217,6 +217,7 @@
 [1253.重构2行二进制序列](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)
 [1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)
 [1267.统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate/)
+[1328.破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome/)
 [1344.时钟指针的夹角](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/)
 
 ## 设计
@@ -397,6 +398,7 @@
 |   1312.让字符串成为回文串的最少插入次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinInsertions.java) |
 |   1316.不同的循环子字符串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/DistinctEchoSubstrings.java) |
 |   1325.删除给定值的叶子节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveLeafNodes.java) |
+|   1328.破坏回文串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BreakPalindrome.java) 
 |   1339.分裂二叉树的最大乘积 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProduct.java) |
 |   1344.时钟指针的夹角 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/AngleClock.java) |
 |   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
