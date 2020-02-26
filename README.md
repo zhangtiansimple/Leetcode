@@ -60,6 +60,7 @@
 #### &#160; &#160;--BST的性质
 &#160; &#160;&#160; &#160;[1008.先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 [1305.两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
+[面试题 04.05.合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/)
 #### &#160; &#160;--深度优先搜索
 &#160; &#160;&#160; &#160;[108.将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
@@ -417,3 +418,4 @@
 |   剑指offer 面试题53-II.0～n-1中缺失的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MissingNumber.java) |
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
 |   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
+|   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
