@@ -126,6 +126,7 @@
 &#160; &#160;&#160; &#160;[3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 [209.长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+[239.滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 [567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 [904.水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
 [1004.最大连续1的个数III ](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
@@ -313,6 +314,7 @@
 |   230.二叉搜索树中第K小的元素  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthSmallest.java) |
 |   232.用栈实现队列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MyStack.java) |
 |   234.回文链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsPalindrome.java) |
+|   239.滑动窗口最大值  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MaxSlidingWindow.java) |
 |   240.搜索二维矩阵II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SearchMatrix.java) |
 |   241.为运算表达式设计优先级  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiffWaysToCompute.java) |
 |   243.最短单词距离  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ShortestDistance.java) |
