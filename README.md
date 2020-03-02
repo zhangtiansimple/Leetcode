@@ -84,7 +84,8 @@
 [234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
 [面试题 02.02.返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 #### &#160; &#160;--反转链表
-&#160; &#160;&#160; &#160;[206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
+&#160; &#160;&#160; &#160;[143.重排链表](https://leetcode-cn.com/problems/reorder-list/)
+[206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
 #### &#160; &#160;--虚拟头结点
 &#160; &#160;&#160; &#160;[203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 
@@ -295,6 +296,7 @@
 |   132.分割回文串II  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinCut.java)|
 |   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
+|   143.重排链表  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReorderList.java) |
 |   153.寻找排序数组中的最小值  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMin.java) |
 |   155.最小栈  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinStack.java) |
 |   165.比较版本号  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CompareVersion.java) |
