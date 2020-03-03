@@ -173,6 +173,9 @@
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
 [253.会议室II](https://leetcode-cn.com/problems/meeting-rooms-ii/)
 
+## 双指针
+&#160; &#160;&#160; &#160;[剑指offer 面试题57.和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+
 ## 二分查找
 &#160; &#160;&#160; &#160;[33. 搜索旋转排序数组](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Search.java)
 [81.搜索旋转数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
@@ -422,6 +425,7 @@
 |   剑指offer 面试题25.合并两个排序的链表 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MergeTwoLists.java) |
 |   剑指offer 面试题26.树的子结构 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSubStructure.java) |
 |   剑指offer 面试题53-II.0～n-1中缺失的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MissingNumber.java) |
+|   剑指offer 面试题57.和为s的两个数字  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/TwoSum1.java) |
 |   剑指offer 面试题68-I.二叉搜索树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestor.java) |
 |   剑指offer 面试题68-II.二叉树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestorII.java) |
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
