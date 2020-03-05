@@ -243,6 +243,7 @@
 
 ## 信心题
 &#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+[1103.分糖果II](https://leetcode-cn.com/problems/distribute-candies-to-people/)
 [1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
 [1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
 [1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)
@@ -366,6 +367,7 @@
 |   996.正方形数组的数目  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumSquarefulPerms.java) |
 |   1004.最大连续1的个数III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestOnes.java) |
 |   1008.先序遍历构造二叉树  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
+|   1103.分糖果 II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/DistributeCandies.java) |
 |   1029.删除字符串中所有相邻重复项II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveDuplicates.java) |
 |   1039.多边形三角剖分的最低分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinScoreTriangulation.java) |
 |   1043.分割数组以得到最大和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumAfterPartitioning.java) |
