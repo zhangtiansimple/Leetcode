@@ -176,6 +176,7 @@
 
 ## 双指针
 &#160; &#160;&#160; &#160;[剑指offer 面试题57.和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+[剑指offer 面试题57-II.和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
 
 ## 二分查找
 &#160; &#160;&#160; &#160;[33. 搜索旋转排序数组](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Search.java)
@@ -430,6 +431,7 @@
 |   剑指offer 面试题26.树的子结构 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSubStructure.java) |
 |   剑指offer 面试题53-II.0～n-1中缺失的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MissingNumber.java) |
 |   剑指offer 面试题57.和为s的两个数字  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/TwoSum1.java) |
+|   剑指offer 面试题57-II.和为s的连续正数序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindContinuousSequence.java) |
 |   剑指offer 面试题68-I.二叉搜索树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestor.java) |
 |   剑指offer 面试题68-II.二叉树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestorII.java) |
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
