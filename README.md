@@ -234,6 +234,7 @@
 &#160; &#160;&#160; &#160;[155.最小栈](https://leetcode-cn.com/problems/min-stack/)
 [225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 [232.用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+[剑指offer 面试题59-II.队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
 
 ## 字符串
 &#160; &#160;&#160; &#160;[80.删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
@@ -432,6 +433,7 @@
 |   剑指offer 面试题53-II.0～n-1中缺失的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MissingNumber.java) |
 |   剑指offer 面试题57.和为s的两个数字  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/TwoSum1.java) |
 |   剑指offer 面试题57-II.和为s的连续正数序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindContinuousSequence.java) |
+|   剑指offer 面试题59-II.队列的最大值 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxQueue.java) |
 |   剑指offer 面试题68-I.二叉搜索树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestor.java) |
 |   剑指offer 面试题68-II.二叉树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestorII.java) |
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
