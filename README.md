@@ -55,6 +55,7 @@
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 [1325.删除给定值的叶子节点](https://leetcode-cn.com/problems/delete-leaves-with-a-given-value/)
+[1372.二叉树中的最长交错路径](https://leetcode-cn.com/problems/longest-zigzag-path-in-a-binary-tree/)
 [剑指offer 面试题07.重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
 [剑指offer 面试题26.树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
 #### &#160; &#160;--BST的性质
@@ -420,6 +421,7 @@
 |   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
 |   1353.最多可以参加的会议数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEvents.java) |
 |   1358.包含所有三种字符的子字符串数目|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfSubstrings.java) |
+|   1372.二叉树中的最长交错路径|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestZigZag.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
