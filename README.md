@@ -49,6 +49,7 @@
 [107.二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 [230.二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 [501.二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
+[543.二叉树的直径 ](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 [663.均匀树划分](https://leetcode-cn.com/problems/equal-tree-partition/)
 [1339.分裂二叉树的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/)
 #### &#160; &#160;--树的结构（具有天然的递归性质）
@@ -351,6 +352,7 @@
 |   501.二叉搜索树中的众数  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindMode.java) |
 |   525.连续数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMaxLength.java) |
 |   542.01矩阵  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UpdateMatrix.java) |
+|   543.二叉树的直径 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/DiameterOfBinaryTree.java) |
 |   560.和为k的子数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubarraySum.java) |
 |   567.字符串的排列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckInclusion.java) |
 |   594.最长和谐子序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLHS.java) |
