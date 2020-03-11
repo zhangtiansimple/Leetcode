@@ -16,6 +16,7 @@
 [120.三角形最小路径和](https://leetcode-cn.com/problems/triangle/comments/)
 [931.下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
 [1289.下降路径最小和II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii/)
+[面试题 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 #### &#160; &#160;--背包问题
 &#160; &#160; &#160; &#160;[322.零钱兑换](https://leetcode-cn.com/problems/coin-change/) [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 #### &#160; &#160;--最长上升子序列问题
@@ -444,4 +445,5 @@
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
 |   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
 |   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
-|   面试题45. 把数组排成最小的数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinNumber.java) |
+|   面试题 45. 把数组排成最小的数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinNumber.java) |
+|   面试题 47. 礼物的最大价值 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
