@@ -224,6 +224,7 @@
 [376.摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 [391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [401.二进制手表](https://leetcode-cn.com/problems/binary-watch/)
+[1071.字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 [1072.按列翻转得到最大行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
 [1180. 统计只含单一字母的子串](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
@@ -380,6 +381,7 @@
 |   1043.分割数组以得到最大和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumAfterPartitioning.java) |
 |   1046.最后一块石头的重量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LastStoneWeight.java) |
 |   1053.交换一次的先前排列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PrevPermOpt1.java) |
+|   1071.字符串的最大公因子 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/GcdOfStrings.java) |
 |   1072.按列翻转得到最大行数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEqualRowsAfterFlips.java) |
 |   1079.活字印刷 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTilePossibilities.java) |
 |   1081.不同字符的最小序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestSubsequence.java) |
