@@ -53,6 +53,9 @@
 [543.二叉树的直径 ](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 [663.均匀树划分](https://leetcode-cn.com/problems/equal-tree-partition/)
 [1339.分裂二叉树的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/)
+[面试题 面试题32-I.从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
+[面试题 面试题32-II.从上到下打印二叉树II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)
+[面试题 面试题32-III.从上到下打印二叉树III]https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/()
 #### &#160; &#160;--树的结构（具有天然的递归性质）
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
@@ -448,6 +451,9 @@
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
 |   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
 |   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
+|   面试题 面试题32-I.从上到下打印二叉树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderI.java) |
+|   面试题 面试题32-II.从上到下打印二叉树II |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LevelOrderII.java) |
+|   面试题 面试题32-III.从上到下打印二叉树III |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderIII.java) |
 |   面试题 33.二叉搜索树的后序遍历序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/VerifyPostorder.java) |
 |   面试题 45. 把数组排成最小的数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinNumber.java) |
 |   面试题 47. 礼物的最大价值 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
