@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class levelOrderII {
+public class LevelOrderII {
     //二叉树的层序遍历 每一层都单独放进集合就好
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();

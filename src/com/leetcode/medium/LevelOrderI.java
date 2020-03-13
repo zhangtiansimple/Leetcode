@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class levelOrderI {
+public class LevelOrderI {
     //层序遍历
     public int[] levelOrder(TreeNode root) {
         if (root == null) {
