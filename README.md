@@ -250,6 +250,7 @@
 [243.最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance/)
 [402.移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 [1156.单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)
+[面试题01.06.字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/)
 [面试题45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
 
 ## 信心题
@@ -448,6 +449,7 @@
 |   剑指offer 面试题59-II.队列的最大值 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxQueue.java) |
 |   剑指offer 面试题68-I.二叉搜索树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestor.java) |
 |   剑指offer 面试题68-II.二叉树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestorII.java) |
+|   面试题01.06.字符串压缩  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CompressString.java) |
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
 |   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
 |   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
