@@ -41,6 +41,7 @@
 [1269.停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
 [1312.让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
 [面试题10- I.斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+[面试题 17.16.按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
 ## 树
 #### &#160; &#160;--遍历
@@ -455,6 +456,7 @@
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
 |   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
 |   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
+|   面试题 17.16.按摩师 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Massage.java) |
 |   面试题 面试题32-I.从上到下打印二叉树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderI.java) |
 |   面试题 面试题32-II.从上到下打印二叉树II |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LevelOrderII.java) |
 |   面试题 面试题32-III.从上到下打印二叉树III |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderIII.java) |
