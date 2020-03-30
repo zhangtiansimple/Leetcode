@@ -262,6 +262,7 @@
 [1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
 [1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)
 [1316.不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/)
+[1394. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/)
 [面试题 01.08.零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/)
 [剑指offer 面试题05.替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
@@ -436,6 +437,7 @@
 |   1353.最多可以参加的会议数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEvents.java) |
 |   1358.包含所有三种字符的子字符串数目|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfSubstrings.java) |
 |   1372.二叉树中的最长交错路径|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestZigZag.java) |
+|   1394. 找出数组中的幸运数|    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLucky.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
