@@ -238,6 +238,7 @@
 [1267.统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate/)
 [1328.破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome/)
 [1344.时钟指针的夹角](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/)
+[1395.统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/)
 
 ## 设计
 &#160; &#160;&#160; &#160;[155.最小栈](https://leetcode-cn.com/problems/min-stack/)
@@ -438,6 +439,7 @@
 |   1358.包含所有三种字符的子字符串数目|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfSubstrings.java) |
 |   1372.二叉树中的最长交错路径|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestZigZag.java) |
 |   1394. 找出数组中的幸运数|    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLucky.java) |
+|   1395.统计作战单位数|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTeams.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
