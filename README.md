@@ -16,6 +16,7 @@
 [120.三角形最小路径和](https://leetcode-cn.com/problems/triangle/comments/)
 [931.下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
 [1289.下降路径最小和II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii/)
+[面试题 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 #### &#160; &#160;--背包问题
 &#160; &#160; &#160; &#160;[322.零钱兑换](https://leetcode-cn.com/problems/coin-change/) [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 #### &#160; &#160;--最长上升子序列问题
@@ -39,6 +40,8 @@
 [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)
 [1269.停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
 [1312.让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
+[面试题10- I.斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+[面试题 17.16.按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
 ## 树
 #### &#160; &#160;--遍历
@@ -48,14 +51,26 @@
 [107.二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 [230.二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 [501.二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
+[543.二叉树的直径 ](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 [663.均匀树划分](https://leetcode-cn.com/problems/equal-tree-partition/)
+[1339.分裂二叉树的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/)
+[面试题 面试题32-I.从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
+[面试题 面试题32-II.从上到下打印二叉树II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)
+[面试题 面试题32-III.从上到下打印二叉树III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
 #### &#160; &#160;--树的结构（具有天然的递归性质）
 &#160; &#160;&#160; &#160;[100.相同的树](https://leetcode-cn.com/problems/same-tree/)
 [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 [1325.删除给定值的叶子节点](https://leetcode-cn.com/problems/delete-leaves-with-a-given-value/)
+[1372.二叉树中的最长交错路径](https://leetcode-cn.com/problems/longest-zigzag-path-in-a-binary-tree/)
+[剑指offer 面试题07.重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+[剑指offer 面试题26.树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
 #### &#160; &#160;--BST的性质
 &#160; &#160;&#160; &#160;[1008.先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 [1305.两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
+[剑指offer 面试题68-I.二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+[剑指offer 面试题68-II.二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+[面试题 04.05.合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/)
+[面试题 33.二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
 #### &#160; &#160;--深度优先搜索
 &#160; &#160;&#160; &#160;[108.将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 [110.平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
@@ -70,11 +85,15 @@
 &#160; &#160;&#160; &#160;[2.两数之和 ](https://leetcode-cn.com/problems/add-two-numbers/)
 [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 [1171.从链表中删去总和值为零的连续结点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
+[剑指offer 面试题06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+[剑指offer 面试题25.合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
 #### &#160; &#160;--快慢指针
 &#160; &#160;&#160; &#160;[141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 [234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+[面试题 02.02.返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 #### &#160; &#160;--反转链表
-&#160; &#160;&#160; &#160;[206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
+&#160; &#160;&#160; &#160;[143.重排链表](https://leetcode-cn.com/problems/reorder-list/)
+[206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
 #### &#160; &#160;--虚拟头结点
 &#160; &#160;&#160; &#160;[203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 
@@ -91,6 +110,7 @@
 
 ## BFS
 &#160; &#160;&#160; &#160;[542.01矩阵](https://leetcode-cn.com/problems/01-matrix/)
+[994.腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)
 [1293. 网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 [1311.获取你好友已观看的视频](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends/)
 #### 建议这些题目都用DFS和BFS两种方法做一遍
@@ -111,16 +131,21 @@
 [1081.不同字符的最小序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/submissions/)
 [1053.交换一次的先前排列](https://leetcode-cn.com/problems/previous-permutation-with-one-swap/)
 [1247.交换字符使得字符串相等](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/)
+[1353.最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)
 
 ## 滑动窗口
 &#160; &#160;&#160; &#160;[3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 [76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
 [209.长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+[239.滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 [567.字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)
 [904.水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
 [1004.最大连续1的个数III ](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)
 [1297.子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/)
+[1350.大小为K且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+[1358.包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/)
+[面试题 17.18.最短超串](https://leetcode-cn.com/problems/shortest-supersequence-lcci/)
 
 ## 回溯
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度  
@@ -152,16 +177,25 @@
 [594.最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)
 [720.词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
 [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
+[剑指offer 面试题03.数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 ## 排序
 &#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
 [253.会议室II](https://leetcode-cn.com/problems/meeting-rooms-ii/)
+
+## 双指针
+&#160; &#160;&#160; &#160;[剑指offer 面试题57.和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+[剑指offer 面试题57-II.和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
+[面试题 16.06.最小差](https://leetcode-cn.com/problems/smallest-difference-lcci/)
 
 ## 二分查找
 &#160; &#160;&#160; &#160;[33. 搜索旋转排序数组](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Search.java)
 [81.搜索旋转数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
 [240.搜索二维矩阵II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 [1281.使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold/)
+[剑指offer 面试题04.二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
+[剑指offer 面试题11.旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
+[剑指offer 面试题53-II.0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
 
 ## 剪枝
 &#160; &#160;&#160; &#160;[15.三数之和](https://leetcode-cn.com/problems/3sum/)
@@ -174,6 +208,7 @@
 ## 栈
 &#160; &#160;&#160; &#160;[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1029.删除字符串中所有相邻重复项II ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+[剑指offer 面试题09.用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
  
 ## 多线程
 &#160; &#160;&#160; &#160;[1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/)
@@ -196,30 +231,43 @@
 [376.摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 [391.完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
 [401.二进制手表](https://leetcode-cn.com/problems/binary-watch/)
+[1071.字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 [1072.按列翻转得到最大行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
+[1180. 统计只含单一字母的子串](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter/)
 [1217. 玩筹码](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1253.重构2行二进制序列](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)
 [1262. 可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)
 [1267.统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate/)
+[1328.破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome/)
+[1344.时钟指针的夹角](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/)
+[1395.统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/)
 
 ## 设计
 &#160; &#160;&#160; &#160;[155.最小栈](https://leetcode-cn.com/problems/min-stack/)
 [225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 [232.用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+[剑指offer 面试题59-II.队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
 
 ## 字符串
 &#160; &#160;&#160; &#160;[80.删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
 [165.比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
 [243.最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance/)
 [402.移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+[409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)
 [1156.单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)
+[面试题01.06.字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/)
+[面试题45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
 
 ## 信心题
 &#160; &#160; &#160; &#160;[LCP 1.猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+[1103.分糖果II](https://leetcode-cn.com/problems/distribute-candies-to-people/)
 [1189.气球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)
 [1221.分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)
-[1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/)
+[1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)
 [1316.不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/)
+[1394. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/)
+[面试题 01.08.零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/)
+[剑指offer 面试题05.替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 
 |      题目      |      难度     |     语言    |
@@ -271,6 +319,7 @@
 |   132.分割回文串II  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinCut.java)|
 |   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
+|   143.重排链表  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReorderList.java) |
 |   153.寻找排序数组中的最小值  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMin.java) |
 |   155.最小栈  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinStack.java) |
 |   165.比较版本号  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CompareVersion.java) |
@@ -291,6 +340,7 @@
 |   230.二叉搜索树中第K小的元素  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthSmallest.java) |
 |   232.用栈实现队列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MyStack.java) |
 |   234.回文链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsPalindrome.java) |
+|   239.滑动窗口最大值  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MaxSlidingWindow.java) |
 |   240.搜索二维矩阵II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SearchMatrix.java) |
 |   241.为运算表达式设计优先级  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/DiffWaysToCompute.java) |
 |   243.最短单词距离  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ShortestDistance.java) |
@@ -307,6 +357,7 @@
 |   391.完美矩形  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/IsRectangleCover.java) |
 |   401.二进制手表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReadBinaryWatch.java) |
 |   402.移掉K位数字  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveKdigits.java) |
+|   409. 最长回文串  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LongestPalindrome.java) |
 |   413.等差数列划分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfArithmeticSlices.java) |
 |   416.分割等和子集  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanPartition416.java) |
 |   417.太平洋大西洋水流问题  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PacificAtlantic.java) |
@@ -316,6 +367,7 @@
 |   501.二叉搜索树中的众数  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindMode.java) |
 |   525.连续数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMaxLength.java) |
 |   542.01矩阵  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UpdateMatrix.java) |
+|   543.二叉树的直径 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/DiameterOfBinaryTree.java) |
 |   560.和为k的子数组  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SubarraySum.java) |
 |   567.字符串的排列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckInclusion.java) |
 |   594.最长和谐子序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLHS.java) |
@@ -331,14 +383,17 @@
 |   904.水果成篮  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/TotalFruit.java) |
 |   931.下降路径最小和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinFallingPathSum.java) |
 |   934.最短的桥  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestBridge.java) |
+|   994.腐烂的橘子  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/OrangesRotting.java) |
 |   996.正方形数组的数目  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/NumSquarefulPerms.java) |
 |   1004.最大连续1的个数III  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestOnes.java) |
 |   1008.先序遍历构造二叉树  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
+|   1103.分糖果 II  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/DistributeCandies.java) |
 |   1029.删除字符串中所有相邻重复项II  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveDuplicates.java) |
 |   1039.多边形三角剖分的最低分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinScoreTriangulation.java) |
 |   1043.分割数组以得到最大和  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxSumAfterPartitioning.java) |
 |   1046.最后一块石头的重量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LastStoneWeight.java) |
 |   1053.交换一次的先前排列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PrevPermOpt1.java) |
+|   1071.字符串的最大公因子 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/GcdOfStrings.java) |
 |   1072.按列翻转得到最大行数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEqualRowsAfterFlips.java) |
 |   1079.活字印刷 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTilePossibilities.java) |
 |   1081.不同字符的最小序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestSubsequence.java) |
@@ -346,6 +401,7 @@
 |   1143.最长公共子序列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestCommonSubsequence.java) |
 |   1156.单字符重复子串的最大长度  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxRepOpt1.java) |
 |   1171.从链表中删去总和值为零的连续结点  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveZeroSumSublists.java) |
+|   1180.统计只含单一字母的子串  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CountLetters.java) |
 |   1189.气球的最大数量  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MaxNumberOfBalloons.java) |
 |   1190.反转每对括号间的子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses.java) [Python](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReverseParentheses)|
 |   1208. 尽可能使字符串相等 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/EqualSubstring.java) |
@@ -377,3 +433,41 @@
 |   1312.让字符串成为回文串的最少插入次数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinInsertions.java) |
 |   1316.不同的循环子字符串 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/DistinctEchoSubstrings.java) |
 |   1325.删除给定值的叶子节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/RemoveLeafNodes.java) |
+|   1328.破坏回文串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BreakPalindrome.java) 
+|   1339.分裂二叉树的最大乘积 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxProduct.java) |
+|   1344.时钟指针的夹角 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/AngleClock.java) |
+|   1350.大小为K且平均值大于等于阈值的子数组数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumOfSubarrays.java) |
+|   1353.最多可以参加的会议数目 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxEvents.java) |
+|   1358.包含所有三种字符的子字符串数目|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumberOfSubstrings.java) |
+|   1372.二叉树中的最长交错路径|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestZigZag.java) |
+|   1394. 找出数组中的幸运数|    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLucky.java) |
+|   1395.统计作战单位数|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTeams.java) |
+|   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
+|   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
+|   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
+|   剑指offer 面试题06.从尾到头打印链表 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReversePrint.java) |
+|   剑指offer 面试题07.重建二叉树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/BuildTree.java) |
+|   剑指offer 面试题09.用两个栈实现队列 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CQueue.java) |
+|   剑指offer 面试题10- I.斐波那契数列 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Fib.java) |
+|   剑指offer 面试题11.旋转数组的最小数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinArray.java) |
+|   剑指offer 面试题25.合并两个排序的链表 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MergeTwoLists.java) |
+|   剑指offer 面试题26.树的子结构 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/IsSubStructure.java) |
+|   剑指offer 面试题53-II.0～n-1中缺失的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MissingNumber.java) |
+|   剑指offer 面试题57.和为s的两个数字  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/TwoSum1.java) |
+|   剑指offer 面试题57-II.和为s的连续正数序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindContinuousSequence.java) |
+|   剑指offer 面试题59-II.队列的最大值 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxQueue.java) |
+|   剑指offer 面试题68-I.二叉搜索树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestor.java) |
+|   剑指offer 面试题68-II.二叉树的最近公共祖先 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LowestCommonAncestorII.java) |
+|   面试题01.06.字符串压缩  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/CompressString.java) |
+|   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
+|   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
+|   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
+|   面试题 16.06.最小差 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestDifference.java) |
+|   面试题 17.16.按摩师 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Massage.java) |
+|   面试题 17.18.最短超串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestSeq.java) |
+|   面试题 面试题32-I.从上到下打印二叉树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderI.java) |
+|   面试题 面试题32-II.从上到下打印二叉树II |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LevelOrderII.java) |
+|   面试题 面试题32-III.从上到下打印二叉树III |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderIII.java) |
+|   面试题 33.二叉搜索树的后序遍历序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/VerifyPostorder.java) |
+|   面试题 45. 把数组排成最小的数 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinNumber.java) |
+|   面试题 47. 礼物的最大价值 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/tree/master/src/com/leetcode/medium) |
