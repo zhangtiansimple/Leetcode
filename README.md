@@ -96,6 +96,7 @@
 [206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/submissions/)
 #### &#160; &#160;--虚拟头结点
 &#160; &#160;&#160; &#160;[203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+[面试题18.删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
 
 ## DFS
 &#160; &#160;&#160; &#160;[113.路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)
@@ -465,6 +466,7 @@
 |   面试题 16.06.最小差 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestDifference.java) |
 |   面试题 17.16.按摩师 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Massage.java) |
 |   面试题 17.18.最短超串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestSeq.java) |
+|   面试题18.删除链表的节点 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/DeleteNode.java) |
 |   面试题 面试题32-I.从上到下打印二叉树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderI.java) |
 |   面试题 面试题32-II.从上到下打印二叉树II |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LevelOrderII.java) |
 |   面试题 面试题32-III.从上到下打印二叉树III |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderIII.java) |
