@@ -151,7 +151,8 @@
 ## 回溯
 &#160; &#160;&#160; &#160;关键在于:不合适就退回上一步 然后通过约束条件 减少时间复杂度  
   
-&#160; &#160;&#160; &#160;[37.解数独](https://leetcode-cn.com/problems/sudoku-solver/)
+&#160; &#160;&#160; &#160;[22.括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+[37.解数独](https://leetcode-cn.com/problems/sudoku-solver/)
 [39.组合总和](https://leetcode-cn.com/problems/combination-sum/)
 [40.组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)
 [46.全排列](https://leetcode-cn.com/problems/permutations/)
@@ -281,6 +282,7 @@
 |   3.无重复字符的最长子串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LengthOfLongestSubstring.java) |
 |   15.三数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ThreeSum.java) |
 |   18.四数之和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FourSum.java) |
+|   22.括号生成 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GenerateParenthesis.java) |
 |   30.串联所有单词的子串  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/FindSubstring.java) |
 |   33. 搜索旋转排序数组 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Search.java) |
 |   37.解数独  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/SolveSudoku.java) |
