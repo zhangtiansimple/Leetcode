@@ -211,6 +211,7 @@
 &#160; &#160;&#160; &#160;[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 [1029.删除字符串中所有相邻重复项II ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 [剑指offer 面试题09.用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
+[面试题31.栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
  
 ## 多线程
 &#160; &#160;&#160; &#160;[1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/)
@@ -469,6 +470,7 @@
 |   面试题 17.16.按摩师 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Massage.java) |
 |   面试题 17.18.最短超串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestSeq.java) |
 |   面试题18.删除链表的节点 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/DeleteNode.java) |
+|   面试题31.栈的压入、弹出序列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ValidateStackSequences.java) |
 |   面试题 面试题32-I.从上到下打印二叉树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderI.java) |
 |   面试题 面试题32-II.从上到下打印二叉树II |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LevelOrderII.java) |
 |   面试题 面试题32-III.从上到下打印二叉树III |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LevelOrderIII.java) |
