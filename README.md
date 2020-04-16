@@ -182,7 +182,8 @@
 [剑指offer 面试题03.数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 ## 排序
-&#160; &#160;&#160; &#160;[179.最大数](https://leetcode-cn.com/problems/largest-number/)
+&#160; &#160;&#160; &#160;[56.合并区间](https://leetcode-cn.com/problems/merge-intervals/)
+[179.最大数](https://leetcode-cn.com/problems/largest-number/)
 [253.会议室II](https://leetcode-cn.com/problems/meeting-rooms-ii/)
 
 ## 双指针
@@ -292,6 +293,7 @@
 |   46.全排列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Permute.java) |
 |   47.全排列II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PermuteUnique.java) |
 |   51.N皇后 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/SolveNQueens.java) |
+|   56.合并区间 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Merge.java) |
 |   62.不同路径  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePaths.java)|
 |   63.不同路径II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePathsWithObstacles.java)|
 |   64.最小路径和 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MinPathSum.java)|
