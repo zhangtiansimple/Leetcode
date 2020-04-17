@@ -123,7 +123,8 @@
 ## 贪心
 &#160; &#160;&#160; &#160;关键在于:每一步都是最优解
 
-&#160; &#160;&#160; &#160;[122.买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+&#160; &#160;&#160; &#160;[55.跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+[122.买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 [435.无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
 [452.用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
@@ -293,6 +294,7 @@
 |   46.全排列 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Permute.java) |
 |   47.全排列II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/PermuteUnique.java) |
 |   51.N皇后 |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/SolveNQueens.java) |
+|   55.跳跃游戏 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanJump.java) |
 |   56.合并区间 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/Merge.java) |
 |   62.不同路径  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePaths.java)|
 |   63.不同路径II |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/UniquePathsWithObstacles.java)|
