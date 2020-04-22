@@ -259,6 +259,7 @@
 [243.最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance/)
 [402.移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
 [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)
+[678.有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)
 [1156.单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)
 [面试题01.06.字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/)
 [面试题45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
@@ -380,6 +381,7 @@
 |   567.字符串的排列  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckInclusion.java) |
 |   594.最长和谐子序列  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLHS.java) |
 |   663.均匀树划分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckEqualTree.java) |
+|   678.有效的括号字符串  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CheckValidString.java) |
 |   691.贴纸拼词  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinStickers.java) |
 |   695.岛屿的最大面积  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/MaxAreaOfIsland.java) |
 |   720.词典中最长的单词  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/LongestWord.java) |
