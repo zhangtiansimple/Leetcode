@@ -19,6 +19,7 @@
 [面试题 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 #### &#160; &#160;--背包问题
 &#160; &#160; &#160; &#160;[322.零钱兑换](https://leetcode-cn.com/problems/coin-change/) [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
+[面试题 08.11.硬币](https://leetcode-cn.com/problems/coin-lcci/)
 #### &#160; &#160;--最长上升子序列问题
 &#160; &#160; &#160; &#160;[139.单词拆分](https://leetcode-cn.com/problems/word-break/)
 [300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
@@ -472,6 +473,7 @@
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
 |   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
 |   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
+|   面试题 08.11.硬币|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WaysToChange.java) |
 |   面试题 16.06.最小差 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestDifference.java) |
 |   面试题 17.16.按摩师 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/Massage.java) |
 |   面试题 17.18.最短超串 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ShortestSeq.java) |
