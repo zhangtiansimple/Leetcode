@@ -209,6 +209,7 @@
 ## 堆
 &#160; &#160;&#160; &#160;[347.前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 [1046.最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+[1438. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
 
 ## 栈
 &#160; &#160;&#160; &#160;[1190.反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
@@ -454,6 +455,7 @@
 |   1372.二叉树中的最长交错路径|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestZigZag.java) |
 |   1394. 找出数组中的幸运数|    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindLucky.java) |
 |   1395.统计作战单位数|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTeams.java) |
+|   1438. 绝对差不超过限制的最长连续子数组|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestSubarray.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
