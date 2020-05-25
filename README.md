@@ -98,6 +98,8 @@
 #### &#160; &#160;--虚拟头结点
 &#160; &#160;&#160; &#160;[203.移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 [面试题18.删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
+#### &#160; &#160;--双向链表
+&#160; &#160;&#160; &#160;[146.LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)
 
 ## DFS
 &#160; &#160;&#160; &#160;[113.路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)
@@ -331,7 +333,8 @@
 |   132.分割回文串II  |    hard    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/hard/MinCut.java)|
 |   139.单词拆分  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WordBreak.java) |
 |   141.环形链表  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/HasCycle.java) |
-|   143.重排链表  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReorderList.java) |
+|   146.LRU缓存机制  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/ReorderList.java) |
+|   143.重排链表  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LRUCache.java) |
 |   153.寻找排序数组中的最小值  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/FindMin.java) |
 |   155.最小栈  |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/MinStack.java) |
 |   165.比较版本号  |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CompareVersion.java) |
