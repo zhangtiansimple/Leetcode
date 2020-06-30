@@ -252,6 +252,7 @@
 [1328.破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome/)
 [1344.时钟指针的夹角](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/)
 [1395.统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/)
+[1497.检查数组对是否可以被k整除](https://leetcode-cn.com/problems/check-if-array-pairs-are-divisible-by-k/)
 [面试题 16.01.交换数字](https://leetcode-cn.com/problems/swap-numbers-lcci/)
 
 ## 设计
@@ -464,6 +465,7 @@
 |   1395.统计作战单位数|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/NumTeams.java) |
 |   1438. 绝对差不超过限制的最长连续子数组|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/LongestSubarray.java) |
 |   1461.检查一个字符串是否包含所有长度为 K 的二进制子串|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/HasAllCodes.java) |
+|   1497.检查数组对是否可以被k整除|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/CanArrange.java) |
 |   剑指offer 面试题03.数组中重复的数字 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindRepeatNumber.java) |
 |   剑指offer 面试题04.二维数组中的查找 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/FindNumberIn2DArray.java) |
 |   剑指offer 面试题05.替换空格 |    easy    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/easy/ReplaceSpace.java) |
