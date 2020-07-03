@@ -176,6 +176,7 @@
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)
 [1286. 字母组合迭代器](https://leetcode-cn.com/problems/iterator-for-combination/)
 [1239. 串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+[面试题 08.09.括号](https://leetcode-cn.com/problems/bracket-lcci/)
 
 ## 哈希表
 &#160; &#160;&#160; &#160;[1.两数之和](https://leetcode-cn.com/problems/two-sum/)
@@ -486,6 +487,7 @@
 |   面试题 01.08.零矩阵 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SetZeroes.java) |
 |   面试题 02.02.返回倒数第 k 个节点 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/KthToLast.java) |
 |   面试题 04.05.合法二叉搜索树 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/IsValidBST.java) |
+|   面试题 08.09.括号 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/GenerteParenthesis.java) |
 |   面试题 08.11.硬币|    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/WaysToChange.java) |
 |   面试题 16.01.交换数字 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SwapNumbers.java) |
 |   面试题 16.06.最小差 |    medium    |  [Java](https://github.com/zhangtiansimple/Leetcode/blob/master/src/com/leetcode/medium/SmallestDifference.java) |
