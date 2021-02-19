@@ -281,6 +281,7 @@
 [1288.有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)
 [1316.不同的循环子字符串](https://leetcode-cn.com/problems/distinct-echo-substrings/)
 [1394. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/)
+[1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 [面试题 01.08.零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/)
 [剑指offer 面试题05.替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
